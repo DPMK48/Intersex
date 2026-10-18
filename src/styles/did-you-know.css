@@ -1,0 +1,46 @@
+@media screen and (max-width: 991px) {
+  .my-masonry-grid > div {
+    display: none;
+  }
+}
+
+.my-masonry-grid {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: -30px;
+  margin-top: 2rem;
+  width: auto;
+}
+.my-masonry-grid-two {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: -30px;
+  margin-top: 2rem;
+  width: auto;
+}
+
+.my-masonry-grid_column {
+  padding-left: 30px;
+  background-clip: padding-box;
+}
+.my-masonry-grid_column-two {
+  padding-left: 20px;
+  background-clip: padding-box;
+}
+.my-masonry-grid_column > div {
+  margin-bottom: 30px;
+}
+
+@media screen and (min-width: 992px) {
+  .my-masonry-grid_column {
+    padding-left: 10px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .my-masonry-grid_column {
+    padding-left: 30px;
+  }
+}

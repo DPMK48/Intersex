@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://intersexnigeria.org/sitemap.xml

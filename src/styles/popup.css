@@ -1,0 +1,7 @@
+.pulsate-fwd{animation:pulsate-fwd 1s ease-in-out infinite both}
+
+@keyframes pulsate-fwd{0%{transform:scale(1)}50%{transform:scale(1.1)}100%{transform:scale(1)}}
+
+.fade-in-fwd{animation:fade-in-fwd 1s cubic-bezier(.39,.575,.565,1.000) both}
+
+@keyframes fade-in-fwd{0%{transform:translateZ(-80px);opacity:0}100%{transform:translateZ(0);opacity:1}}

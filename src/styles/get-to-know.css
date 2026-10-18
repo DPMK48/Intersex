@@ -1,0 +1,773 @@
+/* GET TO KNOW SURVEY PAGE */
+
+/* ===== Hero / Banner ===== */
+.gtk-hero {
+  position: relative;
+  width: 100%;
+  min-height: 340px;
+  background: linear-gradient(135deg, #3a0a4f 0%, #64117e 40%, #8b2fb0 70%, #f5ac07 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.gtk-hero::before {
+  content: '';
+  position: absolute;
+  top: -80px;
+  right: -80px;
+  width: 320px;
+  height: 320px;
+  border-radius: 50%;
+  background: rgba(245, 172, 7, 0.12);
+  filter: blur(60px);
+}
+
+.gtk-hero::after {
+  content: '';
+  position: absolute;
+  bottom: -60px;
+  left: -60px;
+  width: 260px;
+  height: 260px;
+  border-radius: 50%;
+  background: rgba(100, 17, 126, 0.18);
+  filter: blur(50px);
+}
+
+.gtk-hero-content {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  padding: 2rem 1.5rem;
+  max-width: 800px;
+}
+
+.gtk-hero-title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+  font-size: 2.8rem;
+  color: #fff;
+  line-height: 1.15;
+  margin-bottom: 0.75rem;
+  text-shadow: 0 2px 16px rgba(0,0,0,0.18);
+}
+
+.gtk-hero-subtitle {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 400;
+  font-size: 1.15rem;
+  color: rgba(255,255,255,0.88);
+  line-height: 1.55;
+  max-width: 620px;
+  margin: 0 auto;
+}
+
+/* ===== Progress Stepper ===== */
+.gtk-stepper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+  padding: 2.5rem 1rem 1.5rem;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.gtk-step {
+  display: flex;
+  align-items: center;
+  gap: 0;
+}
+
+.gtk-step-circle {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  border: 3px solid #e0d0e8;
+  background: #fff;
+  color: #b0a0ba;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  cursor: default;
+  flex-shrink: 0;
+}
+
+.gtk-step-circle.active {
+  border-color: #64117e;
+  background: #64117e;
+  color: #fff;
+  box-shadow: 0 0 0 6px rgba(100, 17, 126, 0.15), 0 4px 16px rgba(100, 17, 126, 0.2);
+  transform: scale(1.1);
+}
+
+.gtk-step-circle.completed {
+  border-color: #f5ac07;
+  background: #f5ac07;
+  color: #fff;
+  box-shadow: 0 2px 10px rgba(245, 172, 7, 0.25);
+}
+
+.gtk-step-line {
+  width: 60px;
+  height: 3px;
+  background: #e0d0e8;
+  transition: background 0.4s ease;
+  flex-shrink: 0;
+}
+
+.gtk-step-line.completed {
+  background: linear-gradient(90deg, #f5ac07, #64117e);
+}
+
+.gtk-step-label {
+  position: absolute;
+  top: 52px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #b0a0ba;
+  white-space: nowrap;
+  transition: color 0.3s ease;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.gtk-step-circle.active .gtk-step-label,
+.gtk-step-circle.completed .gtk-step-label {
+  color: #64117e;
+}
+
+/* ===== Form Container ===== */
+.gtk-form-wrapper {
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem 3rem;
+}
+
+/* ===== Glassmorphism Card ===== */
+.gtk-card {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(100, 17, 126, 0.08);
+  border-radius: 20px;
+  padding: 2.5rem 2.5rem 2rem;
+  box-shadow:
+    0 8px 32px rgba(100, 17, 126, 0.06),
+    0 1px 4px rgba(0,0,0,0.04);
+  animation: gtk-fadeSlideUp 0.5s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+@keyframes gtk-fadeSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.gtk-card-title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 1.65rem;
+  color: #1d2130;
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.gtk-card-title-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #64117e, #8b2fb0);
+  color: #fff;
+  font-size: 1.1rem;
+  flex-shrink: 0;
+}
+
+.gtk-card-description {
+  font-family: 'Nunito', sans-serif;
+  font-size: 1rem;
+  color: #4a4a5a;
+  line-height: 1.7;
+  margin-bottom: 2rem;
+}
+
+/* ===== Welcome / Intro text ===== */
+.gtk-welcome-text {
+  font-family: 'Nunito', sans-serif;
+  font-size: 1rem;
+  line-height: 1.75;
+  color: #333;
+  margin-bottom: 1.5rem;
+}
+
+.gtk-welcome-text strong {
+  color: #64117e;
+}
+
+.gtk-notice-box {
+  background: rgba(245, 172, 7, 0.08);
+  border-left: 4px solid #f5ac07;
+  border-radius: 0 12px 12px 0;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.95rem;
+  color: #4a4a5a;
+  line-height: 1.6;
+}
+
+.gtk-notice-box.purple {
+  background: rgba(100, 17, 126, 0.05);
+  border-left-color: #64117e;
+}
+
+/* ===== Consent Section ===== */
+.gtk-consent-section {
+  margin-top: 1.5rem;
+  padding: 1.5rem;
+  background: rgba(100, 17, 126, 0.03);
+  border-radius: 14px;
+  border: 1px solid rgba(100, 17, 126, 0.1);
+}
+
+.gtk-consent-title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: #1d2130;
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.gtk-consent-title .required-badge {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background: #64117e;
+  color: #fff;
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+.gtk-consent-text {
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.92rem;
+  color: #4a4a5a;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+
+/* ===== Radio / Checkbox Group ===== */
+.gtk-radio-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.gtk-radio-label {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-radius: 12px;
+  border: 2px solid #e8dded;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.95rem;
+  color: #333;
+  background: #fff;
+}
+
+.gtk-radio-label:hover {
+  border-color: #c4a3d4;
+  background: rgba(100, 17, 126, 0.02);
+}
+
+.gtk-radio-label.selected {
+  border-color: #64117e;
+  background: rgba(100, 17, 126, 0.04);
+  box-shadow: 0 0 0 3px rgba(100, 17, 126, 0.08);
+}
+
+.gtk-radio-label input[type="radio"],
+.gtk-radio-label input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  border: 2px solid #c4a3d4;
+  transition: all 0.25s ease;
+  flex-shrink: 0;
+  position: relative;
+  cursor: pointer;
+}
+
+.gtk-radio-label input[type="checkbox"] {
+  border-radius: 6px;
+}
+
+.gtk-radio-label input[type="radio"]:checked,
+.gtk-radio-label input[type="checkbox"]:checked {
+  border-color: #64117e;
+  background: #64117e;
+}
+
+.gtk-radio-label input[type="radio"]:checked::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #fff;
+}
+
+.gtk-radio-label input[type="checkbox"]:checked::after {
+  content: '✓';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+/* ===== Form Fields ===== */
+.gtk-field-group {
+  margin-bottom: 1.5rem;
+}
+
+.gtk-field-label {
+  display: block;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #1d2130;
+  margin-bottom: 0.5rem;
+}
+
+.gtk-field-label .gtk-required {
+  color: #e53e3e;
+  margin-left: 2px;
+}
+
+.gtk-input {
+  width: 100%;
+  height: 48px;
+  padding: 0 1rem;
+  border-radius: 12px;
+  border: 2px solid #e8dded;
+  background: #fff;
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.95rem;
+  color: #1d2130;
+  transition: all 0.25s ease;
+  outline: none;
+}
+
+.gtk-input:focus {
+  border-color: #64117e;
+  box-shadow: 0 0 0 4px rgba(100, 17, 126, 0.08);
+}
+
+.gtk-input::placeholder {
+  color: #b0a0ba;
+}
+
+.gtk-input.error {
+  border-color: #e53e3e;
+  box-shadow: 0 0 0 4px rgba(229, 62, 62, 0.08);
+}
+
+.gtk-textarea {
+  width: 100%;
+  min-height: 120px;
+  padding: 1rem;
+  border-radius: 12px;
+  border: 2px solid #e8dded;
+  background: #fff;
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.95rem;
+  color: #1d2130;
+  transition: all 0.25s ease;
+  outline: none;
+  resize: vertical;
+}
+
+.gtk-textarea:focus {
+  border-color: #64117e;
+  box-shadow: 0 0 0 4px rgba(100, 17, 126, 0.08);
+}
+
+.gtk-textarea::placeholder {
+  color: #b0a0ba;
+}
+
+.gtk-textarea.error {
+  border-color: #e53e3e;
+  box-shadow: 0 0 0 4px rgba(229, 62, 62, 0.08);
+}
+
+.gtk-select {
+  width: 100%;
+  height: 48px;
+  padding: 0 1rem;
+  border-radius: 12px;
+  border: 2px solid #e8dded;
+  background: #fff;
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.95rem;
+  color: #1d2130;
+  transition: all 0.25s ease;
+  outline: none;
+  cursor: pointer;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%2364117e' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 1rem center;
+}
+
+.gtk-select:focus {
+  border-color: #64117e;
+  box-shadow: 0 0 0 4px rgba(100, 17, 126, 0.08);
+}
+
+/* ===== File Upload ===== */
+.gtk-file-upload {
+  border: 2px dashed #d0c0da;
+  border-radius: 14px;
+  padding: 2rem;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background: rgba(100, 17, 126, 0.02);
+}
+
+.gtk-file-upload:hover {
+  border-color: #64117e;
+  background: rgba(100, 17, 126, 0.04);
+}
+
+.gtk-file-upload-icon {
+  font-size: 2.5rem;
+  color: #64117e;
+  margin-bottom: 0.5rem;
+}
+
+.gtk-file-upload-text {
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.95rem;
+  color: #4a4a5a;
+}
+
+.gtk-file-upload-text strong {
+  color: #64117e;
+}
+
+.gtk-file-name {
+  margin-top: 0.75rem;
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.85rem;
+  color: #64117e;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+}
+
+/* ===== Buttons ===== */
+.gtk-buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+  gap: 1rem;
+}
+
+.gtk-btn {
+  padding: 0.85rem 2rem;
+  border-radius: 12px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.gtk-btn-primary {
+  background: linear-gradient(135deg, #64117e, #8b2fb0);
+  color: #fff;
+  box-shadow: 0 4px 16px rgba(100, 17, 126, 0.25);
+}
+
+.gtk-btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 24px rgba(100, 17, 126, 0.35);
+}
+
+.gtk-btn-primary:active {
+  transform: translateY(0);
+}
+
+.gtk-btn-primary:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.gtk-btn-secondary {
+  background: transparent;
+  color: #64117e;
+  border: 2px solid #64117e;
+}
+
+.gtk-btn-secondary:hover {
+  background: rgba(100, 17, 126, 0.05);
+  transform: translateY(-1px);
+}
+
+.gtk-btn-submit {
+  background: linear-gradient(135deg, #f5ac07, #e89f00);
+  color: #1d2130;
+  box-shadow: 0 4px 16px rgba(245, 172, 7, 0.3);
+  font-size: 1.05rem;
+  padding: 1rem 2.5rem;
+}
+
+.gtk-btn-submit:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 24px rgba(245, 172, 7, 0.4);
+}
+
+.gtk-btn-submit:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+/* ===== Denied / Form Ended ===== */
+.gtk-denied {
+  text-align: center;
+  padding: 3rem 2rem;
+  animation: gtk-fadeSlideUp 0.5s ease forwards;
+}
+
+.gtk-denied-icon {
+  font-size: 4rem;
+  color: #e53e3e;
+  margin-bottom: 1rem;
+}
+
+.gtk-denied-title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #1d2130;
+  margin-bottom: 0.75rem;
+}
+
+.gtk-denied-text {
+  font-family: 'Nunito', sans-serif;
+  font-size: 1rem;
+  color: #4a4a5a;
+  line-height: 1.7;
+  max-width: 500px;
+  margin: 0 auto 2rem;
+}
+
+/* ===== Thank You Page ===== */
+.gtk-thankyou {
+  text-align: center;
+  padding: 3rem 2rem;
+  animation: gtk-fadeSlideUp 0.5s ease forwards;
+}
+
+.gtk-thankyou-icon {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #64117e, #f5ac07);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  animation: gtk-pulse 2s ease-in-out infinite;
+}
+
+@keyframes gtk-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(100, 17, 126, 0.3); }
+  50% { box-shadow: 0 0 0 16px rgba(100, 17, 126, 0); }
+}
+
+.gtk-thankyou-title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+  font-size: 1.8rem;
+  color: #1d2130;
+  margin-bottom: 1rem;
+}
+
+.gtk-thankyou-text {
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.05rem;
+  color: #4a4a5a;
+  line-height: 1.7;
+  max-width: 540px;
+  margin: 0 auto;
+}
+
+/* ===== Section Divider ===== */
+.gtk-section-divider {
+  width: 100%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #d0c0da, transparent);
+  margin: 2rem 0;
+}
+
+/* ===== Two Column Grid ===== */
+.gtk-two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+/* ===== Error Message ===== */
+.gtk-error-msg {
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.8rem;
+  color: #e53e3e;
+  margin-top: 0.35rem;
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+/* ===== Other / Specify Input ===== */
+.gtk-other-input {
+  margin-top: 0.5rem;
+  padding-left: 2.75rem;
+}
+
+/* ===== Background ===== */
+.gtk-page-bg {
+  background: linear-gradient(180deg, #faf5ff 0%, #fff 30%, #fef9f0 100%);
+  min-height: 100vh;
+}
+
+/* ===== Responsive ===== */
+@media screen and (max-width: 768px) {
+  .gtk-hero {
+    min-height: 260px;
+  }
+
+  .gtk-hero-title {
+    font-size: 1.8rem;
+  }
+
+  .gtk-hero-subtitle {
+    font-size: 0.95rem;
+  }
+
+  .gtk-stepper {
+    padding: 1.5rem 0.5rem 1rem;
+  }
+
+  .gtk-step-circle {
+    width: 36px;
+    height: 36px;
+    font-size: 0.85rem;
+  }
+
+  .gtk-step-line {
+    width: 30px;
+  }
+
+  .gtk-step-label {
+    font-size: 0.6rem;
+    top: 44px;
+  }
+
+  .gtk-card {
+    padding: 1.5rem 1.25rem 1.25rem;
+    border-radius: 16px;
+  }
+
+  .gtk-card-title {
+    font-size: 1.25rem;
+  }
+
+  .gtk-form-wrapper {
+    padding: 0.5rem 1rem 2rem;
+  }
+
+  .gtk-two-col {
+    grid-template-columns: 1fr;
+  }
+
+  .gtk-buttons {
+    flex-direction: column-reverse;
+  }
+
+  .gtk-btn {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .gtk-thankyou-title {
+    font-size: 1.4rem;
+  }
+
+  .gtk-consent-section {
+    padding: 1rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .gtk-hero-title {
+    font-size: 1.5rem;
+  }
+
+  .gtk-step-line {
+    width: 20px;
+  }
+
+  .gtk-step-label {
+    display: none;
+  }
+}

@@ -1,0 +1,957 @@
+{
+  "common": {
+    "donateNow": "Donate Now",
+    "donate": "Donate",
+    "readMore": "Read More",
+    "submit": "Submit",
+    "submitting": "Submitting...",
+    "addressText": "Address: Lagos & Abuja",
+    "callText": "Call: +2349129057794",
+    "emailText": "Email: info@intersexnigeria.org",
+    "copyright": "Copyright © {{year}} Intersex NG. All rights reserved",
+    "language": "Language",
+    "seeMore": "See more",
+    "discoverMore": "Discover more",
+    "contactUs": "Contact us",
+    "sendNow": "Send now",
+    "subscribe": "Subscribe",
+    "backHome": "Back home",
+    "share": "Share",
+    "copyLink": "Copy link",
+    "linkCopied": "Link copied to clipboard",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "nav": {
+    "home": "Home",
+    "aboutUs": "About Us",
+    "whatIsIntersex": "What is Intersex",
+    "aboutIntersexNigeria": "About Intersex Nigeria",
+    "meetTheTeam": "Meet the Team",
+    "resources": "Resources",
+    "epublications": "E-Publications",
+    "toolkits": "Toolkits",
+    "articles": "Articles",
+    "annualReports": "Annual Reports",
+    "ourPrograms": "Our Programs",
+    "intersectionalKnowledge": "Intersectional Knowledge",
+    "gallery": "Gallery",
+    "career": "Career",
+    "joinTheTeam": "Join the Team",
+    "volunteerWithUs": "Volunteer with Us",
+    "news": "News",
+    "newsSub": "News",
+    "memo": "Memo",
+    "contact": "Contact",
+    "contactUs": "Contact Us",
+    "reportsAtIntersex": "Reports at Intersex Nigeria",
+    "getToKnow": "Get To Know"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "resources": "Resources",
+    "career": "Career",
+    "joinMailingList": "Join our mailing list",
+    "mailingListDesc": "Be a voice for change. Sign up to receive the latest news, programme alerts, and stories from our advocacy efforts.",
+    "emailPlaceholder": "Your email address",
+    "subscribe": "Subscribe",
+    "subSuccess": "Thank you for subscribing!",
+    "subError": "Failed to subscribe, please try again later"
+  },
+  "banner": {
+    "slide1Title": "Welcome To Intersex Nigeria",
+    "slide1Text": "Center for Healthcare Development and Youth Empowerment is an intersex-led Non-Governmental Organization in Nigeria.",
+    "slide2Title": "Intersex Rights Are Human Rights",
+    "slide2Text": "Through community building, advocacy, evidence-based research, empowerment, educational and informational resources on intersex-related issues to the public, partners, stakeholders and our community.",
+    "slide3Title": "We Promote & Advocate",
+    "slide3Text": "For the sexual reproductive health, self-determination, bodily autonomy and overall human rights of intersex people in Nigeria."
+  },
+  "home": {
+    "aboutUs": "About us",
+    "aboutUsTitle": "Intersex Nigeria (Center for Healthcare Development and Youth Empowerment) is an Intersex-led Non-Governmental Organization in Nigeria",
+    "aboutUsTextPara1": "We promote and advocate for the sexual reproductive health, self-determination, bodily autonomy and overall human rights of intersex people in Nigeria.",
+    "aboutUsTextPara2": "Through community building, advocacy, evidence-based research, empowerment, educational and informational resources on intersex-related issues to the public, partners, stakeholders and our community.",
+    "aboutUsTextPara3": "Intersex Nigeria is a body by and for people with intersex variations. We promote the human rights, self-determination and bodily autonomy of intersex people in Nigeria. We build community, evidence, capacity, education and information resources. Our goals are to help create a society where our bodies are not stigmatized and discriminated against, and where our rights as a people are recognized and respected.",
+    "prioritiesTitle": "Our Strategic Priorities",
+    "documentaryTitle": "A documentary of intersex persons and their lived experiences in nigeria",
+    "whatWeDo": "what we do",
+    "whatWeDoTitle": "What we do at Intersex Nigeria",
+    "faqTitle": "What is Intersex?",
+    "faqTitleDesktop1": "Frequently Asked",
+    "faqTitleDesktop2": "Questions",
+    "faqTitleMobile": "Frequently Asked Questions",
+    "galleryLabel": "gallery",
+    "galleryTitle": "A Visualization of Intersex Nigeria's Advocacy and Community Impact",
+    "programsTitle": "Our Programs",
+    "epubTitle": "Epublications",
+    "epubSubtitle": "Epublications about intersex matters available in French and English languages.",
+    "getInTouch": "get in touch",
+    "sendUsMessage": "Send us a message",
+    "contactText": "Have any question in mind or want to enquire? Please feel free to contact us through the form or the following details.",
+    "mailingListTitle": "Join our mailing list",
+    "mailingListText": "Be a voice for change. Sign up to receive the latest news, programme alerts, and stories from our advocacy efforts.",
+    "emailPlaceholder": "Enter your email address",
+    "getInvolved": "get involved",
+    "volunteerTitle": "We are creating a society where intersex people can thrive",
+    "volunteerText": "Share your time and resources with us.\nJoin our work to support intersex people!",
+    "popupTitle": "Join our mailing list",
+    "popupText": "Be a voice for change. Sign up to receive the latest news, programme alerts, and stories from our advocacy efforts.",
+    "popupEmailPlaceholder": "Your email address"
+  },
+  "priorities": {
+    "movementBuilding": "Movement Building and Partnership",
+    "movementBuildingText": "We collaborate and network with other rights-based groups and networks to build a resilient intersex movement, enhancing the visibility of intersex persons over time",
+    "researchAdvocacy": "Research & Advocacy",
+    "researchAdvocacyText": "We conduct thorough research to understand the human rights issues affecting the communities we serve. We document human rights violations, collect data, and gather testimonies from affected individuals to build evidence for advocacy campaigns.",
+    "publicEngagements": "Public Engagements",
+    "publicEngagementsText": "We organize events to improve the perception of the public on variations of sex characteristics and overcome structural barriers towards reducing all forms of stigma & discrimination, and other human rights violations against intersex persons.",
+    "capacityBuilding": "Capacity Strengthening & Building",
+    "capacityBuildingText": "We provide a comprehensive roadmap for systems strengthening aimed at organizational development,. By integrating best practices and emerging technology, we equip both intersex persons and our team with essential life competency skills.",
+    "srhr": "Sexual and Reproductive Health and Rights (SRHR) and Mental Wellbeing",
+    "srhrText": "We develop and implement comprehensive sexuality education programs that provide accurate information about sexual and reproductive health, including topics such as contraception, HIV and STI prevention, consent, gender equality, and reproductive rights."
+  },
+  "whatWeDo": {
+    "raiseAwareness": "Raise Awareness",
+    "raiseAwarenessText": "Educate the public, policymakers, healthcare professionals, and communities about intersex variations and the harmful effects of genital manipulation surgeries. Raise awareness about the rights of intersex people and the importance of bodily autonomy and self-determination.",
+    "trainingHealthcare": "Training for Healthcare Professionals",
+    "trainingHealthcareText": "Provide training and education for healthcare professionals on intersex variations, human rights principles, and best practices for supporting intersex patients and families. Advocate for culturally competent and affirming healthcare services for intersex individuals.",
+    "advocacyLegal": "Advocacy for Legal Protections",
+    "advocacyLegalText": "Advocate for legal protections against non-consensual medical interventions on intersex individuals, including genital surgeries. Work to ensure that laws and policies uphold the rights of intersex people to make informed decisions about their bodies and healthcare.",
+    "psychosocialSupport": "Psychosocial support",
+    "psychosocialSupportText": "We provide essential psychosocial support to individuals navigating life's challenges by offering a safe space where persons can share experiences, seek guidance, and find emotional comfort. Our programs prioritize mental well-being, resilience, and a sense of belonging, with the aim of empowering individuals to embrace their true selves.",
+    "medicalEthics": "Medical Ethics and Guidelines",
+    "medicalEthicsText": "Advocate for the development and implementation of medical ethics guidelines that prohibit non-consensual genital surgeries on intersex infants and children. Promote patient-centered care and informed decision-making in healthcare settings.",
+    "empowerment": "Empowerment",
+    "empowermentText": "We equip individuals with the tools, resources, and knowledge they need to strengthen themselves through life skills competency training, leadership training, and mentorship programs. Our goal is to ensure that every person pursues their dreams and makes a positive impact in their communities."
+  },
+  "about": {
+    "briefHistory": "Brief history of Intersex Nigeria",
+    "historyText": "Intersex Nigeria was established on November 25th, 2019, by Obioma Chukwuike, in response to the critical need for dedicated support, advocacy, and visibility for intersex persons in Nigeria. The organization was born out of a recognition of the systemic challenges and societal stigmas faced by the intersex community.\n\nSince its inception, Intersex Nigeria has worked tirelessly to advocate for the rights of intersex persons, striving to create a society where they can enjoy bodily integrity and autonomy without fear of discrimination or stigma. By employing a feminist lens, we have engaged in community organizing, conducted research, and spearheaded public advocacy efforts, significantly advancing the rights and well-being of intersex persons in Nigeria.\n\nWe have made remarkable progress in raising public awareness and understanding of intersex issues. Through advocacy, social media campaigns, youth-focused sensitization, workshops, and community outreach programs, we have aimed to dispel myths and stereotypes surrounding people with variations in sex characteristics and promote a climate of acceptance and respect.",
+    "ourVision": "Our Vision",
+    "visionText": "Our vision is to see a society where intersex persons, from birth, have rights to bodily integrity and autonomy and are free from stigma and discrimination.",
+    "ourMission": "Our Mission",
+    "missionText": "To create an enabling society that promotes the visibility, inclusion, bodily autonomy, sexual and reproductive health including mental well-being and human rights of intersex persons in Nigeria, through community organizing, research, advocacy, and public engagements using a feminist lens.",
+    "ourObjectives": "Our Objectives"
+  },
+  "objectives": {
+    "awarenessTitle": "Awareness and Education",
+    "awarenessText": "To raise awareness about intersex issues and promote understanding of intersex variations through educational resources, and engagement.",
+    "advocacyTitle": "Advocacy and policy reform",
+    "advocacyText": "To advocate for policies that protect the rights of intersex individuals, including the right to bodily integrity and autonomy.",
+    "communityTitle": "Community Building and Support",
+    "communityText": "To build a supportive community for intersex individuals in Nigeria, offering resources, peer support, and a platform for shared experiences.",
+    "healthcareTitle": "Healthcare Improvement",
+    "healthcareText": "To work towards improving healthcare outcomes for intersex individuals by advocating for informed, consensual, and culturally competent healthcare practices.",
+    "researchTitle": "Research and Documentation",
+    "researchText": "To conduct and support research on intersex issues in Nigeria, contributing to a body of knowledge that can inform policy, practice, and public understanding."
+  },
+  "contact": {
+    "getInTouch": "get in touch",
+    "sendUsMessage": "Send us a message",
+    "namePlaceholder": "Name",
+    "phonePlaceholder": "Phone number",
+    "emailPlaceholder": "Email",
+    "subjectPlaceholder": "Subject",
+    "messagePlaceholder": "Message",
+    "sendSuccess": "Message sent successfully!",
+    "sendError": "Failed to send message"
+  },
+  "reports": {
+    "landingTitle": "Reports at Intersex Nigeria",
+    "howCanWeHelp": "How Can We Support You Today?",
+    "landingIntro": "Intersex Nigeria is dedicated to creating a safe, just, and supportive environment. We offer two distinct reporting channels. Please select the option below that best matches your situation. Your safety and privacy are our top priorities.",
+    "violationsTitle": "Intersex Violations and Cases",
+    "violationsDesc": "Report human rights violations, acts of discrimination, violence, or systemic rights violations experienced by or witnessed against intersex individuals in Nigeria. The information and data collected here is protected and handled confidentially under our strict data privacy policies.",
+    "reportViolation": "Report a Rights Violation",
+    "safeguardingTitle": "Safeguarding at Intersex Nigeria",
+    "safeguardingDesc": "Report concerns regarding safety, abuse, harassment, boundary violations, or misconduct involving staff, volunteers, consultants, partners, or anyone else connected to Intersex Nigeria. We are committed to responding swiftly, respectfully, and with complete confidentiality.",
+    "reportSafeguarding": "Report a Safeguarding Concern",
+    "privacyTitle": "Your Privacy and Confidentiality are Assured",
+    "privacyText": "All reports submitted through our portals are stored securely and reviewed exclusively by designated, highly trained personnel. Your information will never be shared without your explicit consent, and no one will face repercussions for reporting concerns in good faith."
+  },
+  "error": {
+    "pageNotFound": "The page you entered does not exist"
+  },
+  "faq": {
+    "intro": "Find answers to some of the most common questions about intersex individuals, their rights, and how to support them. If you have more questions, feel free to reach out to us.",
+    "q1": "Is intersex the same thing as 'Trangender'?",
+    "a1": "Intersex relates to innate variations in biological sex characteristics, while transgender refers to a gender identity. Being a transgender person means to have an internal, deeply-held sense of being a man, woman, both, or neither. A transgender person has a gender identity that is different from the sex they were assigned at birth. For example, a person who was assigned female at birth (AFAB) but identifies as a man is a transgender man. It has nothing to do with their physical body, but rather with who they are on the inside.",
+    "q2": "Is intersex the same thing as “Hermaphrodite”?",
+    "a2": "No. “Hermaphrodite” is not the same as intersex. The word came from mythology and should not be used to describe an intersex person.\nHermaphrodite means an organism that produces both male and female gametes, while intersex is an umbrella terms of persons born with innate variations in their sex characteristics (gonads, genitals, hormones, or chromosomal patterns) that do not fit into the typical binary definitions of male or female bodies.\nEven though there are many intersex variations, a person can't have both a fully developed/functional penis and vagina.",
+    "q3": "Is intersex the same thing as “Disorder of Sex Development”?",
+    "a3": "The term “Disorder of sex development” (DSD) is still common in medical settings. Many intersex people and and human rights advocates reject the term “DSD” because it supports the idea that intersex bodies are wrong and up to doctors to “fix the unnatural”\nThe word 'disorder' frames a natural biological variation as a medical problem or a pathology. It implies that something is broken and needs to be 'fixed', which is apathologizing approach. Intersex bodies are not 'wrong' or 'unnatural'; they are an integral part of human diversity, just like variations in height, eye color, or hair type. By labeling this as a disorder, the medical community gives itself a reason to intervene, even when there's no health risk.",
+    "q4": "Is Intersex a birth defect?",
+    "a4": "People born with innate variations in sex development have healthy sex variations that are biological. Also, there hasn’t been any proven studies that show intersex as a defect.\nThe word 'defect' implies a flaw, an error, or something that is not functioning properly. Labeling an intersex trait as a 'defect' wrongly suggests that the person is broken or incomplete and their body is somehow 'wrong'.\nAll intersex people are perfectly healthy. While some variations may come with specific medical considerations, the variations themselves are not inherently a sickness or a flaw. The problem often lies not with the body, but with societal expectations and medical practices that treat these healthy variations as something that needs to be 'fixed' and fit into a rigid sex binary.",
+    "q5": "Is Intersex a medical emergency?",
+    "a5": "Intersex is a natural biological variations in sex characteristics, and it is not a medical emergency.\nWhile intersex conditions are often surrounded by misconceptions and stigma, it’s essential to recognize that being intersex is a normal aspect of every human diversity. Medical emergencies can arise in anyone, regardless of their sex characteristics or gender identity. For instance, an individual may experience health issues such as infections, chronic diseases, injuries, or genetic disorders, which can affect anyone, and that still has not reduced them being a human. The key is to provide appropriate healthcare that respects the individual’s identity and needs.",
+    "q6": "Is surgery the solution?",
+    "a6": "Do intersex babies, teenagers, and adults need surgery?\nNo, most intersex people don't ever in any way need surgery as a solution. Even While some intersex variations may require surgery for urgent medical reasons, most do not. The issue lies in the practice of performing medically unnecessary surgeries on intersex infants and adolescents as it violates their bodily autonomy, and these surgeries are performed to make a an intersex person's body conform to a typical male or female appearance.",
+    "q7": "What are the physical and psychological effects of non-consensual surgeries on intersex infants and children?",
+    "a7": "Non-consensual surgeries performed on intersex infants and children lead to significant physical complications, including scarring, loss of sensation, urinary incontinence, sexual dysfunction, and the risk of additional surgeries later in life.\nPsychologically, these individuals may experience trauma, shame, depression, and anxiety, which can hinder their ability to form a positive sense of self and body image. It is crucial to prioritize informed consent and the well-being of intersex individuals, allowing them to make decisions about their own bodies as they grow and develop.",
+    "q8": "Is intersex a taboo or a bad omen?",
+    "a8": "Intersex is a biological and innate human diversity in sex characteristics, and it is not a taboo.\nThe misconception that being intersex is a taboo or a bad omen is a result of societal and cultural un-understanding. For centuries, societies have operated on a strict binary of male and female. Anything that falls outside this norm is often misunderstood, feared, stigmatized, and seen out of the ordinary; due to these views, they see an intersex person as a sign of a curse, a punishment from a deity, or a bad luck charm.",
+    "q9": "How do I know if I am Intersex?",
+    "a9": "A person can be intersex without knowing it. Here are the most common ways for a person to notice that their body is different:\n● At birth, due to their physical genital differences;\n● At puberty, when changes began to happen in the body, it happen too early, in unexpected ways, or not at all;\n● In adulthood, when infertility or other changes began to reveal internal differences and\n● Learnings about adults' medical records covered up\n● During medical check ups.\nAlso, there are people who do have differences in their sex traits and have never heard the word intersex or any knowledge about who they are.",
+    "q10": "Can Intersex people have children or get pregnant?",
+    "a10": "Yes/maybe. Like any person, it depends on body parts. (And sometimes, help from technology.)\nCreating an embryo requires a sperm from a testis and an egg from an ovary. The developing fetus then needs a place to grow, which is usually a uterus. Advancements in medical technology have created diverse pathways for that to happen even for non-intersex persons. However, it is not possible for any human to reproduce on their own; it always involves at least one other person to make it happen. Intersex persons can also have children through pregnancy, adoption,etc.",
+    "q11": "Message to a parent of guardian of an Intersex person",
+    "a11": "A child needs emotional, care, and psychological support. It's important to create an open and honest conversation about the bodily differences with your child and within the family. Hiding the truth teaches a child that their body is something to be ashamed of.\nFamily should seek informed information from intersex advocates, adults, and organizations as these spaces and conversation can offer invaluable guidance and a sense of belonging for both you and your child.\nLike any child, an intersex child can be raised socially as any child without the need for unnecessary surgery. Decisions regarding non-life-saving surgical interventions should be delayed/postponed until the person is old enough to understand and allow for informed consent. This approach honors your child's autonomy and their right to make decisions about their own body."
+  },
+  "whatIsIntersex": {
+    "subtitle": "Learning about the natural diversity of human sex characteristics and promoting awareness. Let us Understand Intersex.",
+    "definitionTitle": "Definition of Intersex",
+    "definitionP1": "Intersex is an umbrella term for the spectrum of innate variations of sex characteristics that naturally occur within the human species. Intersex people are born with variations of sex characteristics (such as genitals, gonads, reproductive organs, hormonal and chromosomal patterns) that are more diverse than stereotypical definitions of male or female bodies.",
+    "definitionP2": "Some intersex traits are noticed at birth, while others may not be discovered until puberty, later in life, or never known.",
+    "genderVsSexTitle": "Distinguishing Gender from Sex Characteristics",
+    "genderTitle": "Gender",
+    "genderDesc": "Gender is a concept that refers to socially constructed roles, behaviors, expressions, and identities that a given society considers appropriate for individuals based on their perceived or assigned sex at birth.",
+    "sexCharacteristicsTitle": "Sex Characteristics",
+    "sexCharacteristicsDesc": "Sex characteristics are physical features relating to sex. Everyone is born with innate primary and secondary sex characteristics.",
+    "primaryLabel": "Primary sex characteristics -",
+    "primaryDesc": "present at birth and includes genitals, gonads (internal reproductive organs), chromosomes and hormones.",
+    "secondaryLabel": "Secondary sex characteristics -",
+    "secondaryDesc": "develops during puberty e.g facial hair, breast, voice pitch, muscle development,etc.",
+    "sexDefinition": "Sex is the biological categorization of a person based on their sex characteristics.",
+    "howCommonTitle": "How Common is Intersex?",
+    "stat1Number": "1.7%",
+    "stat1Label": "of world population",
+    "stat2Number": "1 in 60",
+    "stat2Label": "births worldwide",
+    "statsDescP1": "Intersex variations are a natural and healthy part of human biodiversity, not a rare anomaly. Experts says that 1.7 percent of the world's population are intersex, highlighting that intersex traits occur in about 1 in 60 births worldwide, making them as common as people with left handedness.",
+    "statsDescP2": "This challenges the notion that intersex is an exceptional difference and underscores its status as a natural human variation.",
+    "variationsTitle": "SOME EXISTING INTERSEX VARIATIONS",
+    "variationsDesc": "Intersex variations can be present in various ways, visible at birth, during puberty, or later in life. Some intersex persons live through life or even die without knowing that they are intersex. Some of the common intersex variations include:"
+  },
+  "variations": {
+    "aisTitle": "Androgen Insensitivity Syndrome (AIS)",
+    "aisDesc": "These are variations in people with XY chromosomes who are resistant to male hormones and develop typically female or mixed characteristics.",
+    "cahTitle": "Congenital Adrenal Hyperplasia (CAH)",
+    "cahDesc": "This a genetic variation that can typically affect hormone production, leading to variations in secondary sex characteristics, like excess hair etc. There several levels of CAH that currently exist.",
+    "ovotestesTitle": "Ovo-testes",
+    "ovotestesDesc": "This variation indicates the presence of both ovarian and testicular tissues in the same persons.",
+    "klinefelterTitle": "Klinefelter Syndrome (XXY Chromosomes)",
+    "klinefelterDesc": "A variation where individuals assigned male at birth have an extra X chromosome.",
+    "turnerTitle": "Turner Syndrome (XO Chromosome)",
+    "turnerDesc": "A variation where persons who are assigned female at birth who lack a second sex chromosome.",
+    "fiveAlphaTitle": "5-Alpha Reductase Deficiency",
+    "fiveAlphaDesc": "This is a variation where people assigned male at birth have atypical genital (ambiguous genitalia) development due to reduced hormone conversion. this variation often has normal ovarian tissue with atrophic testicular tissue",
+    "hypospadiasTitle": "Hypospadias",
+    "hypospadiasDesc": "This is a variation where an individuals opening of the urethra is not at the tip of the penis, but it is on the underside of the penis and is sometimes located further back near the scrotum.",
+    "swyerTitle": "Swyer Syndrome (XY Gonadal Dysgenesis)",
+    "swyerDesc": "This is a variation where persons born with XY chromosomes, but their gonads have not developed into testes. Since they do not produce testosterone, their body develops a vulva and vagina and they often develop a uterus and fallopian tubes as well. People with Swyer Syndrome do menstruate (without ovulating) if they receive estrogen therapy."
+  },
+  "careers": {
+    "joinOurTeam": "Join Our Team",
+    "intro": "We're looking for passionate individuals committed to creating a more inclusive society for Intersex People in Nigeria. Join our dedicated and diverse team at Intersex Nigeria!",
+    "noOpeningsP1": "Thank you for your interest in working with us. Unfortunately, we currently do not have any openings in our organization. If you want to contribute to the work we're doing, you can",
+    "volunteerLink": "volunteer with us",
+    "noOpeningsP2": "Do be on the lookout, as any job openings will be posted here."
+  },
+  "meta": {
+    "homeTitle": "Intersex Nigeria: Advocating for Intersex People in Nigeria",
+    "homeDesc": "Intersex Nigeria is an NGO that raises awareness and advocate for the sexual reproductive health and overall human rights of intersex persons in Nigeria.",
+    "aboutTitle": "About Intersex Nigeria",
+    "aboutDesc": "Learn about Intersex Nigeria, founded to raise awareness about intersex persons, combat stigmas, advocate for intersex rights and promote bodily autonomy.",
+    "whatIsIntersexTitle": "What is Intersex",
+    "teamTitle": "Meet the Team",
+    "teamDesc": "Meet the team at Intersex Nigeria, committed to advocating for the rights, health, and autonomy of intersex people.",
+    "careersTitle": "Careers",
+    "careersDesc": "Be part of a diverse team working towards creating a more inclusive society for intersex persons. Join our mission at Intersex Nigeria!",
+    "reportsTitle": "Reports at Intersex Nigeria",
+    "reportsDesc": "Submit safeguarding reports or report intersex human rights violations and cases to Intersex Nigeria. Your submissions are safe, secure, and confidential.",
+    "safeguardingTitle": "Safeguarding at Intersex Nigeria",
+    "safeguardingDesc": "Safeguarding is everyone's duty at Intersex Nigeria. Report abuse, harassment, boundary violations or other concerns confidentially.",
+    "violationsTitle": "Intersex Violations and Cases",
+    "violationsDesc": "Report intersex human rights violations and cases to Intersex Nigeria. Your submission is confidential and protected.",
+    "contactTitle": "Contact Us",
+    "contactDesc": "Have questions or want to contribute to our cause? Contact Intersex Nigeria to learn more, make inquiries, or support our advocacy for intersex rights.",
+    "galleryTitle": "Gallery",
+    "galleryDesc": "A Photo Gallery of Intersex Nigeria's Advocacy, Events, and Community Impact",
+    "newsTitle": "News",
+    "newsDesc": "Stay updated with the latest news, stories, and updates from Intersex Nigeria.",
+    "programsTitle": "Our Programs",
+    "programsDesc": "Discover how Intersex Nigeria advocates for the rights, visibility, and inclusion of intersex people through education, outreach, and awareness campaigns.",
+    "annualReportsTitle": "Annual Reports",
+    "annualReportsDesc": "Explore Intersex Nigeria's annual reports for updates on advocacy, campaigns, and capacity development for intersex rights and visibility in Nigeria.",
+    "articlesTitle": "Articles",
+    "articlesDesc": "Explore insightful articles from Intersex Nigeria covering advocacy, intersex rights, health, and community stories, promoting awareness and inclusion.",
+    "epubTitle": "Epublications",
+    "epubDesc": "Explore societal perceptions of intersex persons in our ePublications, addressing attitudes, biases, and harmful practices.",
+    "toolkitTitle": "Toolkit",
+    "toolkitDesc": "An in-depth guide for human rights organizations and defenders to develop inclusive advocacy programs tailored to the specific needs of intersex persons.",
+    "faqTitle": "Frequently Asked Questions",
+    "getToKnowTitle": "Intersex Get To Know Questions | Intersex Nigeria",
+    "getToKnowDesc": "Intersex Nigeria Getting To Know Questions For Intersex Persons. A safe and affirming space to connect with the intersex community in Nigeria."
+  },
+  "team": {
+    "title": "Meet the team behind Intersex Nigeria",
+    "subtitle": "Meet the passionate and diverse team behind Intersex Nigeria, dedicated to advocating for the rights, health, and autonomy of intersex people. Together, we are working to create meaningful change and build a more inclusive society.",
+    "boardMembers": "Board Members",
+    "teamMembers": "Team Members",
+    "philosophy": "Our philosophy is simple — hire a team of diverse, passionate people and foster a culture that empowers you to do your best work.",
+    "breadcrumb": "Meet-the-team"
+  },
+  "aboutObjectives": {
+    "advocacyTitle": "Advocacy",
+    "advocacyDesc": "Lead advocacy efforts and strategies to influence and sustain policies and laws that protect and promote intersex rights.",
+    "empowermentTitle": "Empowerment and Support",
+    "empowermentDesc": "Establish and maintain a comprehensive support network for intersex persons and their families, through online and in-person forums and activities.",
+    "educationTitle": "Information and Education",
+    "educationDesc": "Utilizing digital platforms and printed materials to distribute developed accessible educational resources on intersex issues, to broaden public awareness and understanding of intersex rights and needs.",
+    "engagementTitle": "Stakeholder Engagement",
+    "engagementDesc": "Increase recognition and support for intersex rights by securing commitments from key stakeholders across healthcare, legal, policy, human rights and other sectors, ensuring their active participation in initiatives for intersex individuals.",
+    "partnershipsTitle": "Strategic Partnerships",
+    "partnershipsDesc": "Form strategic partnerships with organizations that align with our mission, through movement building, resource mobilization, and collaborations to support key human rights initiatives."
+  },
+  "resources": {
+    "epublications": "Epublications",
+    "annualReports": "Annual Reports",
+    "annualReportsDesc": "Intersex Nigeria remains dedicated to sharing in-depth and transparent updates on our activities and achievements each year. Our annual reports offer a comprehensive look into our advocacy work, detailing the progress we've made in advancing the rights and visibility of intersex persons in Nigeria.",
+    "toolkits": "Toolkits",
+    "articles": "Articles",
+    "ourPrograms": "Our Programs",
+    "download": "Download",
+    "readMore": "Read more",
+    "readMoreDots": "Read more...",
+    "animationVideos": "Animation Videos",
+    "downloadFrench": "Download Nigerian french translation",
+    "downloadHausa": "Download Hausa translation",
+    "downloadYoruba": "Download Yoruba translation",
+    "downloadIgbo": "Download Igbo translation"
+  },
+  "gallery": {
+    "title": "A Photo Gallery of Intersex Nigeria’s thematic area",
+    "loadMore": "Load more",
+    "otherEvents": "Other Events"
+  },
+  "newsPage": {
+    "title": "Intersex in the News",
+    "readMore": "Read more"
+  },
+  "memos": {
+    "title": "Memo",
+    "subtitle": "Official statements and memoranda from Intersex Nigeria."
+  },
+  "safeguarding": {
+    "bannerTitle": "Safeguarding at Intersex Nigeria",
+    "intro": "Intersex Nigeria is committed to keeping every stakeholder and community member safe. We work to prevent harm, respond quickly to concerns and ensure that people can engage with us without fear. Safeguarding is everyone’s duty — including staff, volunteers, consultants, partners, and the wider community.",
+    "whatMeansTitle": "What Safeguarding Means",
+    "whatMeans1": "Protecting people from any form of abuse, discrimination or exploitation",
+    "whatMeans2": "Respecting confidentiality while taking action when safety is at risk",
+    "whatMeans3": "Maintaining clear boundaries in online and in-person engagement",
+    "whatMeans4": "Following the Code of Conduct and responding to concerns without delay",
+    "whatMeans5": "Supporting children, young people and vulnerable adults in line with best practice",
+    "whenRaiseTitle": "When to Raise a Concern",
+    "whenRaiseIntro": "You can report if you notice or experience:",
+    "whenRaise1": "Unsafe behaviour by anyone connected to Intersex Nigeria",
+    "whenRaise2": "Boundary violations",
+    "whenRaise3": "Harassment or discrimination",
+    "whenRaise4": "Abuse or suspected abuse",
+    "whenRaise5": "Misconduct during online or offline activities",
+    "whenRaise6": "Any situation that makes you feel unsafe or unsure",
+    "reportForSelf": "You can report for yourself or for someone else.",
+    "howHandleTitle": "How We Handle Reports",
+    "howHandle1": "Every report is received with respect and confidentiality",
+    "howHandle2": "Only the relevant safeguarding staff will see the information",
+    "howHandle3": "The Designated Safeguarding Lead reviews the case",
+    "howHandle4": "Actions are taken quickly and records are kept securely",
+    "howHandle5": "If the concern involves senior staff, it is escalated to the Disciplinary Committee",
+    "howHandle6": "No one is punished for reporting in good faith",
+    "optionsTitle": "Reporting Options",
+    "optionsIntro": "You can choose the option that feels safest:",
+    "emailCardTitle": "Email",
+    "emailCardDesc": "Or email the safeguarding team at",
+    "emailCardSub": "This will forward directly to the safeguarding team.",
+    "footerNote": "Safeguarding is everyone's responsibility. If you have any concerns, please don't hesitate to report them."
+  },
+  "violations": {
+    "bannerTitle": "Intersex Violations and Cases",
+    "heading": "Thank you for taking this step to share your story with us.",
+    "courage": "We know that taking the step to share takes a lot of courage.",
+    "secureNotice": "Know that whatever you share with us is safe and secure, and the information shared and data collected is confidential and protected under Intersex Nigeria's safeguarding and data policies."
+  },
+  "getToKnow": {
+    "bannerTitle": "INTERSEX GET TO KNOW Questions",
+    "stepperWelcome": "Welcome",
+    "stepperAbout": "About You",
+    "stepperStory": "Your Story",
+    "stepperFinal": "Final",
+    "step1Title": "A Safe Space to Connect",
+    "step1P1": "This questionnaire helps us connect with intersex persons in Nigeria, understand your unique experiences, and explore ways we can provide support, advocacy, and community.",
+    "step1P2": "Your privacy and confidentiality are paramount. All information provided will be treated with the strictest confidence and will never be shared without your explicit consent.",
+    "consentQuestion": "Do you consent to proceed with this questionnaire?",
+    "consentYes": "Yes, I consent.",
+    "consentNo": "No, I do not consent.",
+    "continueBtn": "Continue",
+    "backBtn": "Back",
+    "nextBtn": "Next Step",
+    "submitBtn": "Submit",
+    "submittingBtn": "Submitting...",
+    "successTitle": "Thank You for Sharing Your Story",
+    "successP1": "We have received your submission. Your courage in sharing your experiences means everything to our community.",
+    "successP2": "A member of our team will review your responses with the utmost confidentiality. If you indicated you'd like us to reach out, we'll be in touch through your preferred contact method.",
+    "homeBtn": "Return to Home",
+    "nameRequired": "Name is required",
+    "prefNameRequired": "Preferred name is required",
+    "dobRequired": "Date of birth is required",
+    "phoneRequired": "Phone number is required",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Enter a valid email",
+    "stateRequired": "State of origin is required",
+    "locationRequired": "Current location is required",
+    "genderRequired": "Gender is required",
+    "sexOrientationRequired": "Sexual orientation is required",
+    "pronounsRequired": "Pronouns are required",
+    "selectOption": "Please select an option",
+    "fieldRequired": "This field is required",
+    "specifyRequired": "Please specify",
+    "welcomeTitle": "Welcome",
+    "welcomeP1": "Thank you for taking this step to connect with us. We understand it may have taken courage to reach out. This is a safe and affirming space. We honour your trust and are here to support you — whatever stage of your journey you are at.",
+    "welcomeP2": "To maintain the integrity and safety of all, the GET TO KNOW documents helps us protect our community members and also ensure a safe and secure space for you and helps us map out exactly what kind of support (medical, legal, emotional, or emergency) you need right now.",
+    "confidentialNotice": "The information shared and data collected is confidential and protected under Intersex Nigeria's safeguarding and data policies.",
+    "consentTitle": "Data Protection Consent",
+    "required": "Required",
+    "consentText": "\"I understand that the information provided here will be stored securely and used solely for the purpose of community building in Intersex Nigeria.\"",
+    "ownLanguageNotice": "We advise that in filling out the form you use your own language, terminology, voice, and writing, and reduce the use of AI.",
+    "deniedTitle": "Consent Required",
+    "deniedP1": "We respect your decision. Unfortunately, we are unable to proceed without your consent to our data protection policy. This is to ensure the safety and security of all community members.",
+    "deniedP2": "If you change your mind, you are welcome to return at any time. We are always here for you.",
+    "personalInfoTitle": "Personal Information",
+    "personalInfoDesc": "About you — please provide your safe contact details.",
+    "legalNameLabel": "Name (as appeared in your documents)",
+    "legalNamePlaceholder": "Enter your legal name",
+    "preferredNameLabel": "Preferred Name",
+    "preferredNamePlaceholder": "What would you like to be called?",
+    "dobLabel": "Date of Birth",
+    "ageLabel": "Age",
+    "agePlaceholder": "Auto-calculated",
+    "phoneLabel": "Phone Number (WhatsApp preferred)",
+    "phonePlaceholder": "Enter your phone number",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "Enter your email address",
+    "stateOfOriginLabel": "State of Origin",
+    "selectState": "Select your state",
+    "locationLabel": "Location (where you are presently residing)",
+    "locationPlaceholder": "City, State",
+    "genderLabel": "Gender",
+    "genderPlaceholder": "Enter your gender",
+    "sexualOrientationLabel": "Sexual Orientation",
+    "sexualOrientationPlaceholder": "Enter your sexual orientation",
+    "pronounsLabel": "Pronouns",
+    "pronounsPlaceholder": "e.g. he/him, she/her, they/them",
+    "howHeardLabel": "How did you first come across the term \"intersex\" or \"variations in sex characteristics\" in relation to yourself?",
+    "howHeardMed": "From a medical professional",
+    "howHeardFamily": "From family/parents",
+    "howHeardMedia": "Online or through media/Social media",
+    "howHeardOrg": "Intersex Nigeria/another advocacy group/organization",
+    "howHeardOthers": "Others",
+    "specifyPlaceholder": "Please specify...",
+    "selfIdentifyLabel": "Do you openly self-identify as having an intersex variation?",
+    "selfIdentifyExploring": "I am currently questioning or exploring this",
+    "selfIdentifyNoNotice": "Since you selected \"No\", you will be directed to the final page of the form.",
+    "physicalIndicatorsTitle": "Physical Indicators",
+    "physicalIndicatorsDesc": "Your medical and physical history — share in your own words.",
+    "attachDocLabel": "Attach a document or file (optional)",
+    "clickToUpload": "Click to upload",
+    "orDragDrop": "or drag and drop",
+    "fileFormats": "PDF, DOC, JPG, PNG (max 10MB)",
+    "qVariation": "How do you prefer to describe your variation and at what age did you get to know?",
+    "qVariationPlaceholder": "Use the terminology and knowledge you are most comfortable with...",
+    "qLivedExp": "In your own words, could you briefly describe your lived experience as an intersex person growing up?",
+    "qLivedExpPlaceholder": "Share your experience...",
+    "qChallenges": "Many intersex individuals face unique challenges navigating life in Nigeria. Have you experienced any of these challenges?",
+    "qChallengesPlaceholder": "Describe any challenges you have faced...",
+    "qWhyConnect": "Can you briefly share what specific challenges or what drew you to connect with Intersex Nigeria?",
+    "qWhyConnectPlaceholder": "This helps us understand your intentions and how best to assist you...",
+    "qSupportAreas": "How or what areas of support do you think Intersex Nigeria can support you in relation to your challenges?",
+    "qSupportAreasPlaceholder": "Medical, legal, emotional, emergency, or other areas...",
+    "qAnythingElse": "Is there anything you would like us to know or add before we reach out?",
+    "qAnythingElsePlaceholder": "Any additional information...",
+    "finalQuestionsTitle": "Final Questions",
+    "finalQuestionsDesc": "Just a couple more questions before we finish.",
+    "qPreviousEngagement": "Have you previously engaged with any other intersex support networks, or is this your first time reaching out to an Intersex Organization?",
+    "qPreviousEngagementPlaceholder": "This helps us verify your background...",
+    "consentReachOutLabel": "Do you consent to us reaching out after filling out this form?",
+    "thankYouTitle": "Thank You!",
+    "thankYouP1": "Thank you for reaching out to Intersex Nigeria and taking this brave step. We have received your submission and will be in touch soon.",
+    "thankYouP2": "You are not alone. We are here for you. 💛💜"
+  },
+  "reportForms": {
+    "anonymousReportTitle": "Submit an Anonymous Report",
+    "rightsViolationFormTitle": "Report a Rights Violation Form",
+    "clickToCollapse": "Click to collapse",
+    "clickToExpand": "Click to expand and fill out the form",
+    "reportSubmitted": "Report Submitted",
+    "abuseSuccessText": "Thank you for filling this form. Your report will be reviewed by the safeguarding team. If you shared contact details, you will hear from us soon. Your safety is our priority.",
+    "violationSuccessText": "Thank you for sharing your report. Our human rights and advocacy team will review the submitted details with strict confidentiality. If you provided contact details, we will reach out safely and securely.",
+    "submitAnother": "Submit Another Report",
+    "submitReport": "Submit Report",
+    "submitting": "Submitting...",
+    "indicatesRequired": "* Indicates required question",
+    "submissionSuccess": "Your report has been submitted successfully.",
+    "submissionFailed": "Failed to submit report. Please try again or email reports@intersexnigeria.org directly."
+  },
+  "animationVideos": {
+    "title": "Animation Videos - Intersex Nigeria",
+    "metaDesc": "Medical practices and experiences surrounding intersex births in Nigerian hospitals, Animation videos.",
+    "heading": "Medical practices and experiences surrounding intersex births in Nigerian hospitals, Animation videos.",
+    "pidgin": "Animation video - Pidgin English",
+    "igbo": "Animation video - Igbo Language",
+    "hausa": "Animation video - Hausa Language",
+    "yoruba": "Animation video - Yoruba Language",
+    "english": "Animation video - English Language",
+    "french": "Animation video - French Language"
+  },
+  "intersectionality": {
+    "heroTitle": "INTERSECTIONAL KNOWLEDGE",
+    "heroSubtitle": "An intersectional learning hub of Intersex Nigeria",
+    "exploreResources": "EXPLORE RESOURCES",
+    "aboutHeading": "At The Intersection – An Intersex Nigeria E-Resource Hub",
+    "aboutP1": "At the intersection is a learning hub and subsidiary of Intersex Nigeria. We are dedicated to promoting and advocating for the sexual reproductive health, self-determination, bodily autonomy, and overall human rights of intersex people in Nigeria.",
+    "aboutP2": "Through community building, advocacy, evidence-based research, empowerment, educational and informational resources on intersex-related issues, we engage with the public, partners, stakeholders, and our community.",
+    "aboutP3": "Our goal is to create a society where intersex bodies are not stigmatised and discriminated, and where intersex rights are recognised and respected.",
+    "whatIsTitle": "What is Intersectionality?",
+    "whatIsP1": "Intersectionality conceptualizes the ways that individuals and groups face multiple forms of discrimination or privilege at once based on the disadvantages (intersectionally marginalized) or advantages (intersectionally privileged) associated with their identities within two or more social categories (such as sex, sexual orientation, ethnicity, tribe, descent or inherited status, age, class, disability or health status), rather than a single category. Intersectionality exposes the socio-structural nature of discrimination and inequality and the role of exclusionary social and cultural norms in including or marginalizing certain categories (Sosa, 2017, p. 16).",
+    "whatIsP2": "Individuals belong to more than one social category, and as a result, they can simultaneously experience both discrimination and privilege. Different combinations of these social categories may increase or decrease the likelihood that a person will experience systemic oppression and discrimination.",
+    "whatIsP3": "As a framework or lens, intersectionality is used to analyze social complexity and address the intersection of social categories at the individual level and the overlapping and interlocking systems of power (laws, policies, state governments, political unions, religious institutions, and media) and oppression that impact different groups in distinct ways at structural levels (Bowleg, 2012). As a tool, intersectionality is used to engineer appropriate interventions to address marginalization and social exclusion.",
+    "whyTitle": "Why Intersectionality",
+    "why1Title": "Recognizing Diverse Experiences",
+    "why1Text": "Intersectionality allows us to understand that individuals are shaped by multiple, overlapping social identities, such as gender, ethnicity, tribe, sexual orientation, class, and disability. For intersex and persons with diverse identities, these identities often intersect in ways that compound their experiences of discrimination and marginalization. By adopting an intersectional approach, we can better recognize and address the unique challenges faced by each individual within the intersex community.",
+    "why2Title": "Addressing Systemic Inequality",
+    "why2Text": "Many systems of oppression-such as sexism, tribalism, homophobia, transphobia, and ableism-are interconnected and cannot be fully understood or dismantled in isolation. Intersectionality helps us to see how these systems operate together to create complex layers of disadvantage. This awareness empowers us to tackle the root causes of inequality more effectively, ensuring that no one is left behind in our advocacy efforts.",
+    "why3Title": "Building Inclusive Communities",
+    "why3Text": "Intersectionality fosters inclusivity by valuing and respecting the full spectrum of human diversity. It encourages us to create spaces where all voices are heard, all experiences are validated, and all individuals are supported in their journey toward self-empowerment. This approach aligns with our commitment to building a supportive and united community for intersex persons with diverse identities and multiple experiences in Nigeria.",
+    "why4Title": "Empowering Marginalized Voices",
+    "why4Text": "By embracing intersectionality, we amplify the voices of those who are often the most marginalized. This includes individuals who might experience multiple forms of discrimination due to their intersecting identities. Our work aims to elevate these voices, ensuring that they are not only heard but also actively involved in shaping the solutions to the issues that impact their lives.",
+    "why5Title": "Promoting Holistic Advocacy",
+    "why5Text": "By embracing intersectionality, we amplify the voices of those who are often the most marginalized. This includes individuals who might experience what we know as double or triple jeopardy, which broadens our perspective, allowing us to see the full picture of individual's lived experiences. This holistic understanding enables us to develop more effective advocacy strategies that address the interconnected issues affecting our community. It ensures that our efforts are not only about advancing rights but also about promoting overall wellbeing and social-justice for all persons with intersecting identities and experiences.",
+    "resourceHub": "Resource Hub",
+    "readMore": "Read more",
+    "navHome": "Home",
+    "navAbout": "About Us",
+    "navResources": "Resources",
+    "navIntersexNg": "Intersex NG",
+    "footerCopy": "Copyright © 2025 Intersectional Knowledge. All rights reserved.",
+    "share": "Share",
+    "copyLink": "Copy link",
+    "linkCopied": "Link copied to clipboard"
+  },
+  "jobDetails": {
+    "careers": "Careers",
+    "background": "Background",
+    "aboutPosition": "About the position",
+    "objectives": "Objectives",
+    "keyResponsibilities": "Key Responsibilities",
+    "deliverables": "Deliverables",
+    "keySkills": "Key Skills and Qualifications",
+    "requirements": "Requirements",
+    "academicQualification": "Academic Qualification & Experience:",
+    "expectedOutcomes": "Expected Outcomes",
+    "employmentTerms": "EMPLOYMENT TERMS",
+    "note": "Note",
+    "termsOfReference": "Terms of Reference for",
+    "standardBackgroundP1": "Intersex Nigeria (Center for Healthcare Development and Youth Empowerment) is an intersex-led and focused Non-Governmental Organization in Nigeria. We promote and advocate for the sexual reproductive health, self-determination, bodily autonomy, and overall human rights of intersex people in all diversity in Nigeria. Through community building, advocacy, evidence-based research, empowerment, educational and informational resources on intersex-related issues to the public, partners, stakeholders, and our community.",
+    "standardBackgroundP2": "We want to see a society where intersex bodies are not stigmatized and discriminated against, and where intersex rights are recognized and respected.",
+    "seeMoreAbout": "See more about Intersex Nigeria",
+    "here": "here",
+    "closingDate": "APPLICATION CLOSING DATE",
+    "whenCandidateSelected": "When the needed candidate is selected.",
+    "equalOpportunity": "Intersex Nigeria is an equal opportunity employer and encourages applications from qualified individuals regardless of gender, sex, sexual orientation, (dis)ability, religion, or ethnic background."
+  },
+  "memoDetails": {
+    "breadcrumb": "News / Memo",
+    "issuedBy": "Issued by:",
+    "date": "Date:",
+    "iocNotice": "The new IOC policy is harmful and discriminatory in the following ways:",
+    "pressContact": "Press Contact:"
+  },
+  "teamMembers": {
+    "sendi-danjuma-dafwat": {
+      "title": "Board Chairperson",
+      "text": "Sendi Danjuma Dafwat is a Nigerian psychologist and mental health advocate with expertise in trauma-informed care, particularly in addressing insurgency-related trauma. She holds a Bachelor of Science in Psychology and a Master of Science in Social and Terrorism Psychology.\nShe currently works as a psychologist at the American University of Nigeria, and Special programs coordinator, a program dedicated to providing education and psychosocial support to individuals affected by the Boko Haram insurgency, including the Chibok girls who escaped captivity in 2014. In this role, she helps students process their trauma, supports their reintegration into society, and promotes their overall mental well-being.\nBeyond her work at the American University of Nigeria, Ms. Dafwat is a recognized mental health advocate with experience in humanitarian leadership. She specializes in addressing gender-based violence in crisis situations and committed to raising awareness, challenging stigma and creating safe space for Intersex individuals across Nigeria and beyond."
+    },
+    "oluwaseyi-ogunfodunrin": {
+      "title": "Board Secretary",
+      "text": "Oluwaseyi Ogunfodunrin is a seasoned Quality and Regulatory expert with over a decade of experience leading quality systems in fast-paced manufacturing environments across the food, beverage, and cosmetics industries in Nigeria.\nShe holds a degree in Biochemistry from Obafemi Awolowo University, Ile-Ife, and has obtained advanced training and certifications in Lean Six Sigma, Lead Auditing, Food Safety, Health, Safety and Environment (HSE), Quality Management, and Leadership. \nCurrently serving as the Head of Quality and Regulatory at Freddy Hirsch West Africa, Oluwaseyi oversees quality assurance and food safety initiatives. Her work includes implementing and maintaining globally recognized standards such as FSSC 22000 (benchmarked by the Global Food Safety Initiative), ISO 22000, ISO 9001, and HAS 23000, ensuring strict compliance with international benchmarks. \nShe is a Chartered Chemist, a Certified Management Consultant, and a Fellow of the Institute of Management Consultants Nigeria. Oluwaseyi is also an active member of several key professional bodies within Nigeria’s regulatory and quality assurance ecosystem.\nIn addition to her professional commitments, she serves as a board member of Intersex Nigeria (Centre for HealthCare and Youth Empowerment), where she contributes her expertise in structured governance, regulatory integrity, and strategic planning. Through this role, she supports the organization’s mission to promote dignity, health, and the rights of intersex individuals across Nigeria.  "
+    },
+    "rose-ene-eleyi-ashonibare": {
+      "title": "Board Member",
+      "text": "Rose Ene-Eleyi Ashonibare is a Legal Practitioner at Levite Solicitors & Arbitrators.\nEne graduated from the prestigious University of Jos and the Nigerian Law School respectively. She holds a Masters Degree (LL.M) from Nasarawa State University Keffi where she reviewed “The Examination of the Legal and Institutional Frameworks of Intellectual Property as a catalyst for National and Economic Development of Nigeria” and currently running her Ph.D at Baze University, Abuja.\nAt Levite Solicitors & Arbitrators where she is currently working, she has gathered myriad of experience over the years in several fields of law such as Litigation, Property transactions, Matrimonial cases, Corporate law matters, Alternative Dispute Resolutions etc.\nEne is a member of the Nigerian Bar Association, Unity Branch Abuja. A member of the Nigerian Bar Association Women’s Forum (NBAWF). She is also member of the International Federation of Women Lawyers (FIDA) and also an Associate member of the Institute of Chartered Mediators and Conciliators of Nigeria (ICMC).\nEne, has been privileged to speak at Workshops and Seminars. "
+    },
+    "rosemary-eseh-logue": {
+      "title": "Board Member",
+      "text": "Rosemary Eseh-Logue, M.D. is a Nigerian-American board certified internal medicine physician who practices medicine in Texas, USA.\nWith a robust background in internal medicine including serving as clinical instructor for resident physicians and writing about hot topics in medicine, her career is marked by a commitment to wellness and allyship. Upholding the values of compassion, integrity, excellence, and authenticity, she is devoted to advocating for inclusion, equality, and the acknowledgement of the dignity of every member of humanity."
+    },
+    "obioma-chukwuike": {
+      "title": "Executive Director",
+      "text": "Obioma Chukwuike is an intersex and human rights activist, researcher and environmental conservation expert. They are the Founder and Executive Director of Intersex Nigeria, an organization focused on intersex issues that advocate for the visibility and promotion of the rights of intersex people in Nigeria.\n Their activism and advocacy are aimed at promoting the visibility, respect, and recognition of the rights of intersex people in Nigeria and around the world. \nIssues of healthcare, SRHR, empowerment, social injustice, and well-being faced by intersex people drive their mission at Intersex Nigeria. They belong to several national, regional, and international committees that work to promote the rights and well-being of intersex people."
+    },
+    "victoria-abutu": {
+      "title": "Program Officer | SRHR & Youth Advocate | Public Health Specialist",
+      "text": "Abutu Victoria Onyechi is a dedicated public health professional and advocate with over five years of experience in Sexual and Reproductive Health and Rights (SRHR), Gender-Based Violence (GBV) prevention, and inclusive health programming for marginalized communities. Holding an MPH in Population and Reproductive Health Education from the University of Ibadan and a BSc in Microbiology, Victoria blends scientific expertise with a deep commitment to human rights and social equity.\nCurrently serving as the Program Officer for SRHR and Youth, Victoria leads initiatives that empower intersex and gender-diverse youth through advocacy, capacity-building workshops, and policy engagement. She designs innovative project proposals, documents best practices, and champions the inclusion of intersex voices in national health frameworks.\nVictoria’s technical expertise extends to health workforce optimization (USAID) and HIV testing services supervision (APIN Public Health Initiatives), where she improved data systems and community outreach. A certified specialist in project management, monitoring & evaluation, and advocacy, she is also a passionate volunteer, mentoring underserved groups and promoting health equity.\nFluent in English, French, and Hausa, Victoria believes in the power of inclusive policies and community-driven solutions to transform lives. "
+    },
+    "grace-iho": {
+      "title": "Program Manager",
+      "text": "Grace Iho is an experienced program manager in steering complex, high-value programs  to successful outcomes. She excels in program design, aligning strategic objectives with operational  execution, driving cross-functional teams, and optimizing processes to achieve  outstanding results.\nGrace is also actively involved in strengthening internal systems, improving staff coordination, leading cross-functional teams, and supporting monitoring, evaluation, and learning processes.\nDriven by a vision for equity and youth leadership, Grace continues to influence change through collaborative advocacy and policy reform that center the lived experiences of marginalized populations.\nGrace is passionate about creating spaces where young people and marginalized voices are equipped and empowered to lead advocacy and shape the policies that affect their lives. Her work is grounded in empathy, evidence, and a deep commitment to social justice."
+    },
+    "victoria-augustine": {
+      "title": "Program Officer (Empowerment)",
+      "text": "Victoria is a dedicated and knowledgeable individual with a rich background in capacity-building programs, policy advocacy, SRHR advocacy, and evidence-based research to promote gender equity and social inclusion. \nIn her current role Victoria oversees the design, implementation, and monitoring of empowerment programs that address the needs of intersex persons, through capacity building, stakeholder engagement, advocacy, and resource mobilization, while ensuring impact, innovation, and sustainable development for intersex individuals."
+    },
+    "oyawa-olubukola": {
+      "title": "Finance Officer",
+      "text": "Oyawa Olubukola started her career with Goldcrest Family Centre (NGO) in November 2010 as an Account Officer responsible for the preparation and keeping of Accounting records until December 2013. She joined Olive Leaf Foundation (NGO) as an Account Officer where she maintained proper bookkeeping and accounting records.\nIn June 2015, Oyawa Olubukola joined AMG Logistics Nigeria Limited (Profit making Organization) also as an Account Officer where she prepared and maintained various client accounts, daily posting of transactions, and reconciliation.\nOyawa Olubukola currently works as a Finance Officer in Intersex Nigeria. Oyawa Olubukola holds a B.Sc in Accounting from the University of Ado-Ekiti."
+    },
+    "sandra-gbilah": {
+      "title": "Admin Officer",
+      "text": "Sandra Gbilah is a passionate intersex rights advocate and a dedicated administrative officer with a strong background in community engagement, organizational management, and social justice. Her advocacy is rooted in amplifying the voices of marginalized groups, especially intersex persons, ensuring they have access to dignity, inclusion, and equal rights.\nIn her role as an administrative officer, Sandra brings efficiency, structure, and innovation to organizational processes, supporting teams to achieve their goals with excellence. She skillfully balances her professional responsibilities with her activism, using her organizational expertise to strengthen advocacy networks, coordinate impactful programs, and mentor young activists.\nThrough her leadership, Sandra continues to bridge the gap between professional administration and grassroots advocacy, proving that effective systems and passionate activism can work hand in hand to drive social change."
+    },
+    "festus-aigbe": {
+      "title": "Finance Manager",
+      "text": "Festus Aigbe is the Finance Manager of Intersex Nigeria. He is a seasoned Accounting Professional, with many years of work experience in the Banking, Insurance, Services industries, and civil society organizations. \nMr. Aigbe has equally served in the capacity of a consultant in many establishments handling financial management consulting, auditing and tax services, policy design, cash flow management and investment planning. \nDriven by his professional prowess, Mr. Aigbe has a passion for developing and seeing small businesses grow to their full potential."
+    },
+    "hyellaiti-david-haniel": {
+      "title": "Programs Associate",
+      "text": "David is passionate about bringing stories to life through visual media and writing, David has a keen interest in fashion design, graphics, and video animation, He combines creativity and critical thinking to excel in his role.\nIn addition to his professional interests, He is an Architect."
+    }
+  },
+  "careerJobs": {
+    "small-and-medium-enterprise-support-for-intersex-persons-in-nigeria": {
+      "title": "Small and Medium Enterprise Support for Intersex Persons in Nigeria",
+      "description": "SEED GRANT 4.0 AMPLIFIED - Economic empowerment initiative for intersex persons in Nigeria.",
+      "location": "Nationwide, Nigeria",
+      "type": "Grant & Training Support",
+      "about": "SEED GRANT 4.0 AMPLIFIED - Economic empowerment initiative for intersex persons in Nigeria.",
+      "customTitle": "Small and Medium Enterprise Support for Intersex Persons in Nigeria - SEED GRANT 4.0 AMPLIFIED"
+    },
+    "small-and-medium-sized-enterprise-sme-development-expert": {
+      "title": "Small and Medium-Sized Enterprise (SME) Development Expert",
+      "description": "We are Hiring - Small and Medium-Sized Enterprise (SME) Development Expert",
+      "location": "Nationwide, Nigeria",
+      "type": "Consultancy",
+      "about": "We are Hiring - Small and Medium-Sized Enterprise (SME) Development Expert",
+      "customTitle": "Terms of Reference - Small and Medium-Sized Enterprise (SME) Development Expert"
+    },
+    "facilitators---eee-program-2026": {
+      "title": "Facilitators - EEE Program 2026",
+      "description": "We are Hiring - Facilitators for Two Day Digital Empowerment on Advocacy Workshop and Nine Weeks Life Competency Skills Training under the Engage, Encourage, Empower (EEE) Program 2026 in Lagos",
+      "location": "Lagos, Nigeria",
+      "type": "Consultancy",
+      "about": "Intersex Nigeria (Center for Healthcare Development and Youth Empowerment) is an intersex-led and focused organization that promotes the visibility, inclusion, bodily autonomy, sexual and reproductive health including mental wellbeing, and human rights of intersex persons in Nigeria. In Nigeria, young people in their diversities face significant challenges, including marginalization, discrimination, and violence. The Engage Encourage and Empower (EEE) program aims to address these systemic issues by providing life competency skills and mental health support to young individuals of diverse SOGIESC (18-25 years) in Lagos. The program will involve providing training for 15 young individuals of diverse SOGIESC identity and reality over a 10 week period. This training will include a two day digital empowerment for advocacy; and a nine-week life competency skills with emphasis on self-acceptance, resilience, health education, mental well-being, and leadership development.",
+      "customTitle": "Facilitators - EEE Program 2026"
+    },
+    "program-associate-consultancy": {
+      "title": "Program Associate (Consultancy)",
+      "description": "We are Hiring - Program Associate (Consultancy)",
+      "location": "Lagos, Nigeria",
+      "type": "Full-time (Hybrid)",
+      "about": "The Programs Associate will support the planning, implementation, monitoring, and evaluation of organizational programs and projects. The role ensures that programs are effectively delivered, results are tracked, and learning is used to improve impact and accountability to intersex communities, donors, and partners. The Program Associate will contribute to project design and implementation, community engagement, documentation, and reporting. The ideal candidate is detail-oriented, proactive, and passionate about promoting social justice, equality, and advancing intersex human rights in Nigeria.",
+      "customTitle": "Program Associate (Consultancy)"
+    },
+    "finance-assistant": {
+      "title": "Finance Assistant",
+      "description": "We are Hiring - Finance Assistant",
+      "location": "Lagos, Nigeria",
+      "type": "Full-time (Hybrid)",
+      "about": "The Finance Assistant will work closely with the Finance Officer and the Finance Manager, supporting the effective management of Intersex Nigeria’s financial systems and operations. The role includes assisting with bookkeeping, financial reporting, budgeting, and compliance with donor and organizational policies. The ideal candidate is detail-oriented, organized, and committed to transparency, accountability, and ethical financial practices in support of the organization’s mission.",
+      "customTitle": "Finance Assistant"
+    },
+    "communications-strategist": {
+      "title": "Communications Strategist",
+      "description": "We are Hiring - Communications Strategist",
+      "location": "Abuja, Nigeria",
+      "type": "Full-time (Hybrid)",
+      "about": "The Communications Strategist will lead the development and execution of strategic communications that amplify intersex voices and strengthen our public presence. This role combines strategic communications planning with hands-on digital design and content creation, ensuring our messaging is impactful, inclusive, and visually compelling across platforms. The ideal candidate is a strategic storyteller, skilled communicator, and rights-based advocate responsible for shaping the organization’s public image and ensuring inclusive, sensitive, and accurate representation of intersex persons.",
+      "customTitle": "Communications Strategist"
+    },
+    "administrative-officer": {
+      "title": "Administrative Officer",
+      "description": "We are Hiring - Administrative Officer",
+      "location": "Lagos, Nigeria",
+      "type": "Full-time (Hybrid)",
+      "about": "The Administrative Officer will provide administrative, logistical, and procurement support to ensure the efficient functioning of the organization. The role is critical in supporting programs, events, and daily operations while ensuring transparency, accountability, and value for money.",
+      "customTitle": "Administrative Officer"
+    }
+  },
+  "newsData": {
+    "0": {
+      "title": "FG, CSO partner to boost inclusive healthcare policies",
+      "text": "The Federal Ministry of Health and Social Welfare has signed a Memorandum of Understanding with a Civil Society Organisation, Intersex Nigeria, to integrate intersex perspectives into the country’s healthcare policies, in a move aimed at improving protection and access to care for persons born with variations in sexual characteristics."
+    },
+    "1": {
+      "title": "FG, CSO to support inclusive healthcare policies",
+      "text": "The Federal Ministry of Health and Social Welfare has signed a Memorandum of Understanding with a Civil Society Organisation, Center for Health Care Development and Youth Empowerment (Intersex Nigeria), to integrate intersex perspectives into the country’s healthcare policies."
+    },
+    "2": {
+      "title": "Nigeria Healthcare: Intersex community calls for reform to bridge knowledge gap",
+      "text": "The Intersex Community wants urgent reforms in Nigeria's healthcare system to bridge decades long knowledge gaps about interse individuals."
+    },
+    "3": {
+      "title": "FG moves to mainstream Intersex Nigerians in national health agenda",
+      "text": "The Federal Ministry of Health and Social Welfare has initiated a national conversation about the inclusion and recognition of intersex persons within Nigeria’s healthcare system, seeking to address the long-neglected needs of this population."
+    },
+    "4": {
+      "title": "Intersex Nigeria is inviting you  for two impactful events dedicated to intersex awareness and advocacy!",
+      "text": "Exciting Times!!! Intersex Nigeria is inviting you. Join us for two impactful events dedicated to intersex awareness and advocacy! Intersex Awareness Day – October 26th, 2024. \nBe part of the launch of VIRAL Report, highlighting the realities of intersex persons. \n 🎉 Intersex Nigeria’s 5th Anniversary – October 27th, 2024. Join us as we celebrate 5 years of impactful advocacy, community support and intersex awareness. \n Attendance is free, but registration is compulsory! Mark your calendars and click the link below to register"
+    },
+    "5": {
+      "title": "Government urged to stop discrimination against intersex people",
+      "text": "Worried about stigmatisation and discrimination against intersex persons in society, the Centre for Healthcare Development and Youth Empowerment, (Intersex Nigeria) has called on the government to intervene with policies and programmes to checkmate any form of discrimination."
+    }
+  },
+  "memoData": {
+    "0": {
+      "title": "Official Statement: Intersex Nigeria Responds to the New International Olympic Committee (IOC) Policy on Sex Testing; Harm and Discrimination on Intersex Women",
+      "subtitle": "Policy on the Protection of the Female (Women’s) Category in Olympic Sport",
+      "description": "Intersex Nigeria stands in opposition to the IOC policy released on 26 March 2026, which mandates one-time SRY genetic sex testing and undermines the privacy, dignity, and rights of women athletes.",
+      "intro": [
+        "Intersex Nigeria stands in opposition to the International Olympic Committee (IOC) policy released on 26 March, 2026 which discriminates against transgender and intersex women with Olympic dreams through a mandated one-time SRY (Sex-determining Region Y) genetic sex testing that invades the privacy and dignity of all women athletes. While framed as a measure for \"fairness,\" this policy represents a direct attack on the privacy, dignity, and human rights of intersex women athletes across the globe.",
+        "Intersex is an umbrella term used to describe people who are born with innate sex characteristics such as chromosomes, hormones, gonads, or genitals that do not fit typical binary definitions of male or female bodies. They make up to approximately 1.7% of the world population. We assert that sex characteristics exist on diverse spectrum and can’t be reduced to binary experiences."
+      ],
+      "concerns": [
+        {
+          "title": "Unscientific Foundations",
+          "body": "Experts, including the scientist who discovered the SRY gene, stated the SRY gene is not a definitive indicator of biological sex or athletic advantage. They noted that its presence does not determine how a body functions or responds to testosterone."
+        },
+        {
+          "title": "Violations of Privacy and Dignity",
+          "body": "Requiring a one-time genetic testing to participate in sports violates the fundamental privacy of women and girls, exposing them to invasive medical scrutiny and the risk of being forcibly outed regarding their intersex status, or they may not even be aware of their own intersex variation, leading to extreme public scrutiny and humiliation."
+        },
+        {
+          "title": "Coerced Medical Intervention",
+          "body": "Similar past policies have forced athletes to undergo invasive physical exams or alter their natural hormone levels through medication, often leading to declining health and psychological trauma."
+        },
+        {
+          "title": "Discriminatory Exclusion",
+          "body": "While the policy offers rare exceptions for specific variations, it effectively denies many intersex women with XY chromosomes or higher testosterone levels participation in Olympic sport."
+        },
+        {
+          "title": "Safeguarding Risks for Youth",
+          "body": "As many elite athletes begin their careers as children, this policy creates a safeguarding risk by requiring the investigation of children's bodies and the disclosure of intimate health information, which can lead to permanent harm to their dignity and mental health."
+        }
+      ],
+      "conclusion": "Intersex Nigeria calls on sports governing bodies to recognize that intersex women are women. All athletes deserve the right to play the sports they love free from discrimination, invasive testing, and medical policing."
+    }
+  },
+  "articlesData": {
+    "why-menstrual-healthcare-for-intersex-people-matters": {
+      "title": "Why Menstrual Healthcare for Intersex People Matters",
+      "text": "When we talk about menstrual health, many people only think of female persons. But not everyone who menstruates is a female person. Some intersex people also menstruate. Their needs are often ignored in health programmes and public conversations.",
+      "post": "When we talk about menstrual health, many people only think of female persons. But not everyone who menstruates is a female person. Some intersex people also menstruate. Their needs are often ignored in health programmes and public conversations. Even schools, which should be institutions of learning, rarely include intersex persons in their curriculum.\nIntersex people are born with bodies that do not fit the typical definitions of male or female. This can include genitalia, but also chromosomes and hormones. Some intersex people have a uterus and experience periods. Others do not. But for those who do, it is important that they have access to correct information, support and safe products.\nFor intersex people who menstruate, many of them face shame, confusion or silence when their periods start. For intersex people who menstruate, the onset of periods is often accompanied by shame, confusion and silence. This is not just from a lack of information, but from systemic erasure. In many communities, menstruation is framed strictly as a &quot;female issue,&quot; leaving no room for the experiences of intersex people whose bodies may not conform to binary expectations. As a result, in the situation where an intersex person begin menstruating, they are often met with disbelief, ridicule or outright denial of their bodily autonomy. Some are pressured to hide their experiences to protect their families from perceived social shame, while others are told that their bodies are “wrong” or in need of medical correction. These cause fear, stress and mental health issues.\nSome Intersex men who experience symptoms linked to menstruation, such as cramping, spotting or bleeding may feel a deep discomfort with their body. This is called dysphoria. It is the feeling that your body is not matching who you know yourself to be. It can be painful, especially when health workers dismiss their symptoms and/or belittle them. They are left feeling alone and confused.\nMost health workers are not trained to care for intersex people. Some do not even know what intersex means. In our report on ]**Medical Practices and Experiences Surrounding Intersex Births in Nigerian Hospitals**] we found that 74% of healthcare professionals indicated that their hospitals had no specific approach to managing intersex cases.\nThis leads to misinformed treatment or harmful advice. For example, telling someone to take hormonal medicine to stop their bleeding without checking their full health background to understand the root cause or even asking the person if they even want that. Another is by using language that makes them feel ashamed, such as calling them a mystery insisting on them being &quot;fixed&quot;.\nMenstrual health education must include intersex people. Just as teaching boys about menstruation helps reduce stigma, incorporating the experiences of intersex individuals creates greater understanding and inclusivity. In Kenya, initiatives like Jinsiangu’s [**InclusiFit**[ are leading the way by addressing menstrual hygiene needs specific to intersex persons.\nSafe toilets, pain relief and access to pads are not gender issues. They are health needs. Intersex people must be included in menstrual health programmes. For example, a school toilet should be safe for both a boy who menstruates and a girl who menstruates. This can be done by making restrooms gender neutral or by making disposal bins available in all toilet stalls to make disposal of sanitary items easy. It should not be based on gender, but on need.\nAlso, language matters. Saying “women and girls” all the time can leave others out. A better term is “people who menstruate.” This helps include everyone without confusion.\nIf we say menstrual health is for all, then we must mean it. Intersex people are part of that “all.” Their needs are not extra. They are basic. This world menstrual health hygiene day and beyond, we must all work towards including intersex persons in menstrual healthcare."
+    },
+    "the-intersection-of-our-narratives-in-the-face-of-discrimination": {
+      "title": "The Intersection of Our Narratives in The Face of Discrimination",
+      "text": "Discrimination against women and girls is a pervasive issue that undermines human rights and socio-economic development worldwide. Despite significant progress in gender equality, millions continue to face systemic barriers, including gender-based violence, economic inequality, social exclusion and patriarchy.",
+      "post": "“*Nothing for us without us. Nothing for women without the involvement and inclusion*”. Joyce Banda.\nDiscrimination against women and girls is a pervasive issue that undermines human rights and socio-economic development worldwide. Despite significant progress in gender equality, millions continue to face systemic barriers, including gender-based violence, economic inequality, social exclusion and patriarchy. The “Orange the World” campaign highlights the urgency of addressing these injustices, raising awareness and advocating for change. \nDiscrimination against women/girls is manifested in various forms, such as: \n**Gender-Based Violence:** According to the Nigerian Demographic and Health Survey, 31% of women/girls aged 15-49 experienced physical violence, and UNICEF Nigeria 1 in 4 girls experienced sexual violence before the age of 18 in her lifetime, often at the hands of intimate partners. This violence not only causes physical harm but also leads to long-term psychological trauma and distortion in life. \n**Economic Disparities:** They are represented in low-paying or unemployable jobs and are less likely to hold leadership positions. The gender pay gap remains a significant barrier to financial independence. \n**Social Exclusion:** Cultural norms and stereotypes often dictate their roles, limiting their access to education, healthcare, and participation in public life. This exclusion perpetuates cycles of poverty and dependence. \nGrowing up in the northern part of Nigeria I have seen and witnessed families consisting of young women/girls and men/boys but these women/girls had aspirations and, dreams of influence, changed. Then they are forced into early marriage and childbirth, divorced, and unrepairable medical health conditions, with the belief that her primary role should be as a wife and a mother. The familial pressure to conform her to her role left her feeling isolated and unworthy of her ambitions.\nThese stories reflect a broader pattern of discrimination that hinders them from their basic human rights. Their narratives of survival and resilience are crucial as they inspire us to challenge the status quo and advocate for rights. \nThe consequences of violence against her extend beyond them, affecting families and communities. These women/girls often face stigma, isolation, fear, and a lack of support, which can hinder their ability to seek help and perpetuate the continuous cycle of violence against them often transcending generations. Moreover, the discrimination they face has broader societal implications, including decreased economic productivity, increased cost of living, and perpetuation of gender inequality.\nAddressing the prevalence of discrimination and violence requires comprehensive awareness and strategic campaigns. These initiatives should focus on educating communities about the signs of abuse, available resources, and the importance of supporting her. Engaging men/boys in these conversations is crucial for fostering a culture of respect, accountability, and responsibility. \nTo combat discrimination and violence, we must examine existing policies and practices. Nigeria has made strides in developing legal frameworks to protect her rights under the Violence Against Persons Prohibition (VAPP) Act, yet enforcement and Implementation remain a significant challenge. Advocacy efforts must focus on holding the Government accountable for enforcing these laws and ensuring that resources are allocated to support them. Additionally, community-based programs that educate persons about their rights and provide access to legal assistance can empower them to stand up against discrimination. \nCommunity engagement plays a vital role in combating discrimination. Grassroots initiatives can foster solidarity and empower her by creating safe spaces for dialogue and support. \nWorkshops and Training, Collective Campaigns and Intersectional advocacy is vital in addressing discrimination, as it recognizes that persons experience discrimination in multifaceted ways. Factors such as sex, race, class, and sexual orientation, intersect to create unique challenges for different groups of women/girls, gender minorities and intersex persons. This approach acknowledges that the experiences of a married/single woman/girl, or an intersex person cannot be fully understood by examining only one aspect of their identity in isolation. We embracing an intersectional framework, can ensure that our advocacy efforts are inclusive, reflecting the diverse realities and needs of all persons that are discriminated. This inclusivity not only enhances our understanding of the systemic and intersectional barriers that different communities face but also strengthens our collective efforts to promote equity and justice for everyone. \nThe fight against discrimination and violence toward her is far from over. The “Orange the World” (16 Days of Activism) campaign reminds us of our collective responsibility in creating a safer, more equitable society. By sharing our stories, advocating for policy changes, and engaging in community action, we can pave the way for a future free from violence and discrimination. \nAs individuals and communities, we must commit to raising our voices and taking action. Whether through our voices, activism, or support for local initiatives, every effort contributes to the larger movement for gender equality. Let us stand together in solidarity and work towards a world where all women and girls can thrive without fear of discrimination or violence."
+    },
+    "unite-to-end-violence-against-women-and-girls": {
+      "title": "UNiTE to End Violence Against Women and Girls",
+      "text": "Violence against women and girls is one of the world’s oldest evil. The United Nations estimates that 1 in 3 women experience one form of violence or the other in their lifetime; this is estimated 736 million women worldwide, making violence against women and girls a global pandemic.",
+      "post": "Violence against women and girls is one of the world’s oldest evil. The United Nations estimates that 1 in 3 women experience one form of violence or the other in their lifetime; this is estimated 736 million women worldwide, making violence against women and girls a global pandemic. World Bank highlights that 35% of women globally have experienced either physical and/or sexual intimate partner violence or non-partner sexual violence. Additionally ]**World Health Organisation**] estimated that over 200 million women globally have experienced female genital mutilation without a specific statistics for intersex persons. \nThe fight for a just and equal society where women and girls as well as intersex persons thrive have been consistent through the years. However, the strong force of stigma, which is pervasive but yet under-recognised still finds subtle ways to influence this fight. Stigma fuels misconceptions, perpetuates harmful stereotypes directed at survivors of violence, particularly women, girls and intersex persons and ultimately serves as a barrier to achieving true equality and safety for all.  Stigma often lead to a culture of silence, shame, and fear, preventing many survivors of violence, especially women, girls and intersex people from seeking help, accessing critical support, and having bodily autonomy. \nThe culture of [**silence**[ surrounding gender-based violence (GBV) is perhaps the most immediate and damaging consequence of stigma. Survivors are often unable to speak owing to fear of being judged, punished or excluded from social settings. In Nigeria and many other countries in the world, }**patriarchal system**} holds supreme and the structure of patriarchy promotes a shame-based silence that prevents or discourages women form speaking out. Also, in many cultures, survivors of violence are told to suck it up, warned against seeking help and often threatened with further violence like ostracism, physical abuse, “corrective” rape, etc. They are told that speaking up will bring shame to the family and are blamed for the violence they experience. This causes a continuous cycle of abuse as survivors tend to remain silent to avoid bringing stigma onto themselves or their loved ones, even when they desperately need help. Social exclusion in the face of violence as a survivor can not be overemphasised. Survivors often lose support systems, are stigmatised in social structures like work places, schools and places of worship; leaving them more vulnerable. This, again, leads survivors to a hole of silence, remaining in the place of abuses. \nShame and fear are some of the most damaging consequences of stigma. Women and girls are often made to feel responsible for the abuse they face through societal expectation of dresses, who to love, actions and behaviour which further promote a system that celebrates abusers and stigmatise survivors and consequently, silences survivors from reaching out for the help and legal support they deserve. In the light of these, the need to deconstruct the elements that fuel stigma in the face of gender-based violence is imperative. \nA critical first step is to create a safe space where survivors can share their experience without the feeling of shame, fear or thought of being judged. By our actions, words and behaviours we can help survivors of abuse feel that they will be believed, supported, and protected, not blamed, dismissed or subjected to more violence. \nSecondly, the culture of victim blaming must be challenged while holding perpetrators accountable. It is essential to amplify that violence on women, girls and intersex persons or anyone else is never the victim’s fault and women must be supported and shown that they are worthy of respect, dignity and justice. \nIn conclusion, as we embark on this journey to **UNiTE to End Violence Against Women and Girls**, it is imperative that we confront and dismantle the stigmas that threaten to undermine our progress. Together, let us challenge harmful societal norms, empower survivors, and ensure accountability of perpetrators. Only then can we create a world where all women, girls and intersex persons can live free from violence and discrimination, with dignity and respect for their rights."
+    },
+    "gender-based-violence-against-intersex-people-hidden-realities-and-the-urgent-call-for-justice": {
+      "title": "Gender-Based Violence Against Intersex People: Hidden Realities and the Urgent Call for Justice",
+      "text": "In the fight against gender-based violence, the experiences of intersex people are often overlooked, hidden in the shadows of the binary gender world. Intersex people, born with variations in sex characteristics that don’t fit typical male or female norms, face a unique set  of injustices that go largely unaddressed.",
+      "post": "In the fight against gender-based violence, the experiences of intersex people are often overlooked, hidden in the shadows of the binary gender world. Intersex people, born with variations in sex characteristics that don’t fit typical male or female norms, face a unique set  of injustices that go largely unaddressed. During this year’s 16 Days of Activism, it’s time to bring their stories to light and demand protection, dignity, and respect for intersex individuals everywhere. \nDespite feminist strides, ours is still not a society that supports and rewards individuals who do not conform to gender norms. Little boys are still kept in line with phrases like, “Don’t be a sissy.” Little girls and particularly older girls face fierce disapproval if they behave or dress too “boyishly.” This early punishment for simply expressing gender identity leaves many scars, but the experiences that lead  intersexual domestic violence survivors to believe that it’s normal for “people like me” to live with abuse only increase in magnitude as the intersex survivor matures. \n**The Invisible Violence of “Correction”** \nFor many intersex persons, gender-based violence begins at birth. Doctors, often with the backing of family members, perform non-consensual “normalizing” surgeries on infants and young children. These surgeries aim to make a child’s body conform to societal expectations of male or female. The procedures may involve removing or altering genital tissue, reshaping organs, or administering hormones to “correct the body” irreversibly. \nThe paper titled Trans and Intersex Survivors of Domestic Violence: Defining Terms, Barriers, & Responsibilities By Diana Courvant and Loree Cook-Daniels talks about a doctor who at an annual convention of the Society for the Scientific Study of Sexuality related the case of a girl child with a large clitoris sexually mutilated by her father, who was angered at the phallic proportions of his infant daughter’s clitoris. Amazingly, this doctor completed the child’s mutilation by performing a clitoridectomy and was using her story to justify surgery on infants in similar situations, rather than healing the child and calling attention to her abuse. Although these stories’ power is anecdotal and not statistical, they and others like them are widely known and retold among intersex individuals. Because of the extreme cruelty and casual indifference of authorities and institutions exemplified in these common stories, an intersex survivor may fear an unknown service institution more than a familiar abuser. \n**A Life in the Shadows: The Psychological Toll of Secrecy and Stigma** \nThe psychological violence against intersex persons doesn’t end with childhood surgeries. From a young age, many are shamed, silenced, or pressured to keep their identities a secret. Imagine growing up in a world that insists you’re “different” in ways that make people uncomfortable. Families, often unprepared to understand or advocate for intersex rights, can unintentionally fuel this isolation. \nOne U.S.- based intersex advocate described feeling “invisible” for years. “My parents tried to hide it from me,” they explained, “and so I felt like there was something wrong with me. It took years of unlearning and self-love to realize that I wasn’t broken.” The shame imposed by society often leads to mental health issues like depression, anxiety, and in extreme cases, suicidal ideation. \n**Intersex People at the Margins of Rights** \nInstitutional discrimination compounds the trauma, as many countries including Nigeria don’t legally recognize intersex identities or protect intersex rights. Denied recognition and often forced to choose a binary gender, intersex individuals encounter obstacles in healthcare, legal systems, and workplaces. In Kenya, until 2020, intersex people couldn’t obtain identification that accurately reflected their identity, preventing access to basic services like education and healthcare. This legal erasure is yet another form of violence, keeping intersex people trapped in systems that deny their existence and rights. \n**The Road to Dignity: What Needs to Change** \nTo end this cycle of gender based violence, we must confront the medical, social, and legal systems that violate the rights of intersex persons. Here’s how we can begin to create a safer world for intersex persons: \n1.\t**End Non-Consensual Surgeries:** All children, including intersex children, have a right to bodily autonomy. We must urge medical systems to halt unnecessary surgeries on intersex infants and ensure that any medical interventions are based on consent and necessity, not outdated ideals of “normal.” \n2.\t**Raise Awareness and Erase Stigma:** The shame and isolation imposed on intersex persons by society need to end. Through education, communities can learn that intersex characteristics are natural, diverse variations of human biology. Awareness campaigns can help shift the narrative from secrecy to acceptance. \n3.\t**Advocate for Legal Protections and Recognition:** Governments must create laws that prohibit discrimination against intersex individuals and recognize intersex identities. Legal protections and rights are crucial to ensure that intersex people can live without fear of exclusion, discrimination, or violence. \n4.\t**Center Intersex Voices:** Change will only be meaningful if intersex individuals are included in conversations about their own rights and welfare. From activism to policy making, intersex voices should lead the way in creating a society that celebrates, rather than hides, their identities.\n**A Call to Action** \nAs we participate in the 16 Days of Activism, let us not forget intersex people, whose stories are often silenced. Their fight for dignity, autonomy, and justice is as vital as any in the movement against gender-based violence. Stand with intersex persons. Share their stories. Demand an end to practices that violate their rights. Together, we can create a world where no one is forced to hide, and everyone’s identity is respected and protected. \nIt’s time to shine a light on these hidden realities and make room for all identities in the global call for equality and justice."
+    },
+    "towards-beijing-30-confronting-gender-based-violence-against-women-and-girls-in-their-diversity": {
+      "title": "Towards Beijing +30: Confronting Gender-Based Violence Against Women and Girls in Their Diversity",
+      "text": "As the world enters the 16 Days of Activism against Gender-Based Violence (GBV), this year’s theme, “Towards Beijing +30: UNiTE to End Violence Against Women and Girls,” calls us to action with renewed urgency.",
+      "post": "*When one woman is harmed, every woman—and the entire community—feels it.* \nAs the world enters the 16 Days of Activism against Gender-Based Violence (GBV), this year’s theme, “Towards Beijing +30: UNiTE to End Violence Against Women and Girls,” calls us to action with renewed urgency. For marginalized women and girls—those who are poor, uneducated, queer, intersex, disabled, or facing language barriers—the fight against violence is not only about physical harm. It’s about dismantling systems of exclusion and discrimination that threaten both their physical safety and mental health. Over three decades since the Beijing Declaration, we must ask: What has truly changed? Has the system become a tool of oppression? Are we going to pretend it hasn’t? \n**The Mental Toll of GBV and Exclusion** \n Across Nigeria and many African societies, GBV does more than harm bodies; it shatters minds and lives. Marginalized women and girls endure not only overt forms of violence but also the psychological damage caused by systemic discrimination and exclusion. When a young woman with a disability is denied access to school because she is seen as “too much work,” a queer woman faces harassment at work for not fitting into what the system demands, or an intersex person is shunned by their family for not fitting neatly into “male” or “female” categories, the toll on mental health is as real as any physical injury. These experiences deepen anxiety, depression, and a profound sense of isolation that can take years—if not a lifetime—to heal. \n As I pen these words, I let my tears flow because every line reflects my own life and the lives of a community with similar, if not worse, experiences of true and intentional exclusion due to our differences. I know how poverty is used as a tool of oppression, how mental health struggles are dismissed as abstract and unreal. I see how we constantly live in fear of simply being because of a system designed to erase our identities, experiences, and realities. Yet, with these words, we continue to exist and claim our spaces through ink and action. \n **Spotlighting African Women and Girls in Their Diversity** \n For African women and girls in all their diversity, the impact of Gender Based Violence (GBV) is amplified by intersecting barriers. Those without financial resources, formal education, or community support are less likely to access mental health services and more likely to be silenced by societal stigma. In these conditions, ***GBV becomes both a cause and a consequence of broader social inequities, reinforcing a cycle of poverty, vulnerability, and mental health deterioration***. \n**Community Care as a Lifeline** \n As we mark nearly 30 years since the historic Beijing Platform for Action, the call to address GBV through community-centered support has never been more critical. In Africa, community has always been a source of strength and healing. This tradition of collective care offers a foundation for innovative solutions that can uplift women and girls in their diversity, especially when access to formal services is limited. \n Community care initiatives that address both GBV and mental health are essential. Women’s shelters, peer counseling networks, and safe spaces for queer and intersex youth can offer vital support, providing a safe haven from violence and a place to heal. These networks not only combat the effects of GBV but also work proactively to prevent violence through education, solidarity, and advocacy. In Nigeria, organizations supporting women from marginalized backgrounds have become powerful advocates, providing emotional support and championing policy changes that challenge violence in all its forms. There are feminists’ groups where resources are shared for wellbeing and care. As much as the feminist movements is shaping how women organizations ae becoming inclusive of the diverse women and girls, there so much work that needs to be done in combating the attitudes towards women and girls existing outside the binary. To My feminists’ sisters, we can do better. \n** Solutions from a Community Perspective** \n***While community care offers immediate relief, broader structural changes are needed to ensure that no woman or girl is left vulnerable to GBV.*** As the global CSOs speak on Cross Movement Solidarity for true inclusion, governments, policymakers, and civil society must work together to provide inclusive mental health resources and combat discriminatory practices in healthcare, education, and employment. For marginalized groups, this means that mental health support should be readily available in all local languages, disability-accessible, and culturally sensitive to different sexual orientations, sex characteristics and gender identities. \n Community initiatives can only thrive when supported by inclusive laws and policies. For women and girls in their diversity, structural support must go beyond GBV laws and extend to socioeconomic opportunities, language access, and disability rights. Education campaigns targeting schools, workplaces, and communities can shift harmful mindsets, showing that mental health support is a right, not a privilege, and that every woman and girl deserves a life **free from violence and exclusion**. \n*Mental health care should never be a luxury!* \n**Calling for Collective Responsibility** \nThis year’s 16 Days of Activism is a reminder that ending GBV requires collective action. Each of us has a role to play in creating a world where marginalized women and girls feel safe, supported, and empowered. We can educate ourselves and others about the challenges they face, support local organizations doing critical work, and speak out against all forms of exclusion and violence. When we unite in solidarity, we not only uplift individual women and girls but strengthen the very thread that holds our societies. \n As we move toward Beijing +30, let us commit to a vision where no woman or girl in Nigeria or anywhere else in the world, is left to suffer in silence. By embracing community care and advocating for inclusive policies, we can build a future that honors the dignity, resilience, and mental well-being of all women and girls in their diversity. \n*We cannot continue to turn a blind eye to the double and triple jeopardy that women and girls in their diversity are faced with. We must be intentional about true inclusion in the fight to end GBV. Turning a blind eye to the fact that GBV is also enabled because women and girls are existing outside the binary, is inhumane and oppressive. Leaders at the helms of affairs must ensure not to overlook the double issue that confronts people like me, who do not look like a typical woman, and as a result, face multiple forms of violation and exclusion, impacting our emotional and mental well-being. You cannot continue to be on the fence or be diplomatic with issues of queer, intersex women, including women with visible and invisible disabilities. You cannot afford to be DIPLOMATIC!* \n *In the end, healing from systemic exclusion and discrimination requires an intentional, United, compassionate approach and it is important to state that this is not just a call to end violence but a demand for true inclusion in the fight against GBV.* \nFor real change, African governments, civil society, and health systems must recognize the link between discrimination, mental health, and gender-based violence, especially for marginalized women and girls. Policies must address underlying societal structures that perpetuate exclusion, with support for inclusive mental health services that cater to diverse identities and abilities. \n TAKE ACTION, NOW!"
+    },
+    "photo-story-of-intersex-persons-in-nigeria": {
+      "title": "Photo Story of Intersex Persons in Nigeria",
+      "text": "Intersex-Nigeria was founded in November 2019 by Obioma Chukwuike to create public awareness and understanding of intersex people and to encourage community building among intersex persons. The advocacy is centered on the rights to bodily integrity, ending stigma and discrimination, creating visibility, ending medical intervention surgeries and other discriminatory practices perpetuated on intersex babies and persons. ",
+      "post": "Intersex-Nigeria was founded in November 2019 by Obioma Chukwuike to create public awareness and understanding of intersex people and to encourage community building among intersex persons. The advocacy is centered on the rights to bodily integrity, ending stigma and discrimination, creating visibility, ending medical intervention surgeries and other discriminatory practices perpetuated on intersex babies and persons. "
+    }
+  },
+  "programsData": {
+    "dialogue-on-strengthening-child-protection-and-addressing-harmful-practices-affecting-people-with-variations-in-sex-development-intersex-people": {
+      "title": "Dialogue on strengthening child protection and addressing harmful practices affecting people with variations in sex development (Intersex people)",
+      "text": "Intersex Nigeria held an Intersectional Training Workshop aimed at strengthening the connections between Female Genital Mutilation (FGM), child rights, and intersex rights. This workshop brought together organizations across Nigeria that are actively working in these critical areas to explore intersectional approaches, share best practices, and build collaborations to eliminated Intersex Genital Mutilation (IGM), child abuse, and FGM.\n\nThe workshop featured key discussions with members of Child Protection Networks and FGM Networks, who aligned their efforts to protect intersex children from harmful medical and cultural practices. Participants examined existing laws and policies in Nigeria that address FGM, IGM, trafficking, and sexual and gender-based violence (SGBV). Through these discussions, gaps were identified that leave intersex children particularly vulnerable to abuse, discrimination, and stigma.\n\nThe development of community-driven strategies aimed at integrating intersex issues into advocacy and programming was designed, and participants worked to formulate a joint action plan that outlines steps to advance inclusive policy reforms and grassroots interventions. They also committed to maintaining a partnership with Intersex Nigeria, ensuring that their efforts continue to evolve and adapt to the needs of intersex persons.\n\nBy bringing together diverse organizations, this workshop represents a significant step toward creating a safer, more inclusive environment for all children. Through ongoing efforts. Intersex Nigeria remains dedicated to fostering multi-sectoral partnerships that protect the rights and bodily autonomy of intersex children and all vulnerable groups in Nigeria."
+    },
+    "national-youth-service-sensitization-youth-focused-advocacy-2025": {
+      "title": "National Youth Service Sensitization (Youth Focused Advocacy) 2025",
+      "text": "In April 2025, Intersex Nigeria continued its vital efforts to promote awareness, visibility, and sexual and reproductive health rights (SRHR) by visiting the National Youth Service Corps (NYSC) orientation camp in Wannune, Tarka Local Government Area of Benue State, Nigeria. This continued initiative marked another significant stride in the organization's mission to foster understanding and inclusivity for intersex individuals.\n\nDuring this visit, Intersex Nigeria held an impactful session in the NYSC hall through a seminar- style presentation that attracted over 1,700 corps members and carried out one-on-one sensitization sessions. The session constitutes learning, open conversations, and shared curiosity. Participants asked questions and engaged in discussions that highlighted the importance of recognizing intersex and the unique challenges faced by intersex individuals. There was an atmosphere of openness; the team dispelled myths and misconceptions surrounding intersex existence.\n\nThese visits are not just about raising awareness; it's about building a future where intersex inclusion is prioritized, and conversations about sexual and reproductive health rights are inclusive of all.\n\nAs Intersex Nigeria continues its journey, We are creating a future where intersex inclusion starts with awareness and education."
+    },
+    "csos-stakeholders-engagement-in-makurdi-benue-state-nigeria": {
+      "title": "CSOs Stakeholders' engagement in Makurdi, Benue State, Nigeria",
+      "text": "In the move towards promoting intersex rights and inclusion, Intersex Nigeria engaged with 15 representatives from various Civil Society Organizations (CSOs) in Makurdi. This stakeholders' meeting laid the groundwork for Intersex Nigeria's ongoing efforts in Benue State.\n\nDuring the sessions, Intersex Nigeria's team provides valuable knowledge on several key topics, and the team also focused on dispelling myths and misconceptions that often surround intersex individuals, which lead to discrimination and stigma.\n\nA significant part of the discussion centered on understanding the different variations of intersex characteristics. This knowledge is essential for stakeholders who work directly with communities, as it enables them to approach intersex issues with sensitivity and understanding. The team also presented effective strategies for supporting intersex individuals, emphasizing the need for inclusion in community programs and initiatives. The team also highlighted existing gaps in laws, policies, and frameworks concerning intersex rights.\n\nAs Intersex Nigeria continues its advocacy work, the collaboration with CSOs in Benue State represents a promising step forward. By bringing together diverse organizations and fostering a shared understanding of intersex issues, Together, we are striving towards a society where every intersex individual is recognized and respected."
+    },
+    "a-sensitization-workshop-for-the-federal-ministry-of-health-and-social-welfare-on-understanding-intersex-and-inclusive-intersex-healthcare": {
+      "title": "A Sensitization Workshop for the Federal Ministry of Health and Social Welfare on Understanding Intersex and Inclusive Intersex Healthcare",
+      "text": "Intersex Nigeria hosted a workshop in Abuja with officials from the Federal Ministry of Health and Social Welfare, focusing on the need to include intersex individuals in healthcare planning and design. This engagement aimed to address barriers faced by intersex persons, such as unrecorded births, stigma in healthcare settings, and exclusion from essential healthcare services. \n\nThe workshop brought together 34 representatives from various departments within the Ministry, creating discussions aimed at raising awareness and promoting inclusive healthcare policies. Participants explored strategic collaborations to enhance the well-being of intersex individuals and provide affirming healthcare services. \n\nA key objective was to bridge knowledge gaps and advocate for reforms that prioritize intersex rights. The officials called for the development of a Standard Operating Procedure (SOP) to guide the protection and promotion of intersex health, along with specific healthcare policies or modifying existing ones that uphold their rights and dignity.\n\nDuring the sessions, stakeholders emphasized the importance of evidence-based policy-making, urging collaboration with other institutions to address systemic issues in intersex healthcare. The need for a Social and Behavioral Change Communication (SBCC) plan was discussed, targeting media, policymakers, and the public to build understanding and acceptance of intersex issues.\n\nAction points emerged from the workshop, including the integration of intersex perspectives into existing health policies. The workshop marked a significant step towards ensuring equitable healthcare access for intersex individuals in Nigeria."
+    },
+    "national-youth-service-sensitization-youth-focused-advocacy-2024": {
+      "title": "National Youth Service Sensitization (Youth Focused Advocacy) 2024",
+      "text": "In May 2024, Intersex Nigeria continued its step forward in its mission to promote awareness and visibility by visiting the National Youth Service Corps (NYSC) orientation camp in Kubwa, FCT Abuja. This initiative program aimed to educate young individuals about the understanding of sex characteristics and gender, as well as the lived realities of intersex persons in Nigeria.\n\nIntersex Nigeria's team engaged several individuals in discussions that highlighted the need for visibility and understanding of intersex. By addressing prevalent myths and misconceptions surrounding intersex individuals in Nigeria.\n\nDuring the visit, the team talked about the unique challenges and needs faced by intersex persons. They underscored the importance of preventing discrimination and promoting inclusion at all levels of society. This program not only aimed to educate the youth but also to cultivate empathy and support for intersex rights. A crucial topic of discussion was the alarming issue of Intersex Genital Mutilation (IGM). Intersex Nigeria is committed to advocating for the end of this harmful practice, which has long-term physical and psychological consequences.\n\nThe visit to the NYSC camp built a sense of empathy and solidarity among the reached youths and a community for intersex individuals."
+    },
+    "media-engagement-on-positive-media-representation-of-intersex-persons-in-nigeria": {
+      "title": "Media Engagement on positive media representation of intersex persons in Nigeria.",
+      "text": "In April, Intersex Nigeria hosted a Media Engagement Workshop by bringing together journalists from leading media outlets in Nigeria. The primary focus of the workshop is to explore how the media can shift the narratives surrounding intersex individuals and enhance their visibility and rights in Nigeria.\n\nThe discussions were engaging, creating a collaborative environment where the journalists shared insights and experiences. Participants expressed a strong commitment to ensuring that intersex voices are heard and intersex issues are covered from an informed perspective, rather than through sensationalism. This change is crucial in creating an accurate portrayal of intersex individuals in media.\n\nOne of the outcomes of the event was to develop a comprehensive media toolkit. This toolkit is in creation with the journalists and will serve as a resource for guiding correct and informed reporting on intersex issues. By equipping journalists with the necessary tools and knowledge, we aim to create a media environment that respects intersex individuals.\n\nThis program is a step towards building better coverage and promoting inclusivity in media narratives. Through these efforts, we are paving the way for a future where intersex rights are recognized and celebrated."
+    },
+    "national-youth-service-sensitization-youth-focused-advocacy-2023": {
+      "title": "National Youth Service Sensitization (Youth Focused Advocacy) 2023",
+      "text": "In August 2023, Intersex Nigeria started a dynamic sensitization program focused on youths in Nigeria, starting with the NYSC Camp in Lagos. This project was crafted to educate these young minds on the nuances of sex characteristics, gender identity, and the unique challenges faced by intersex persons. \n\nThe sessions were informative and interactive, creating a lively atmosphere of curiosity and learning. Through a blend of enlightening presentations and engaging discussions, we discussed the misunderstood world of intersex persons, shedding light on their experiences and struggles. \n\nThe program was an undeniable success. It wasn't just about imparting knowledge; it was about changing perceptions and creating a sense of responsibility among the young participants. We witnessed a remarkable transformation as attendees began to understand the importance of advocating for the rights of intersex persons. They left the sessions not only more informed but also more empathetic and committed to supporting the cause."
+    },
+    "world-untold-echoes-of-silence---an-educative-and-entertaining-stage-play-project": {
+      "title": "“World Untold, Echoes Of Silence” - (An Educative And Entertaining Stage Play Project)",
+      "text": "Intersex Nigeria presented 'World Untold: Echoes of Silence', a stage play in Abuja, Nigeria. This impactful stage play wove together personal stories, cultural reflections, and societal critiques, highlighting the diverse experiences of intersex persons. The play educated the audience about intersex issues, dispelling myths and promoting empathy. Authentic performances deeply moved the audience, creating a powerful emotional experience that resonated long after the curtain fell. \n\nThe event united activists, allies, policymakers, and the intersex community,promoting a sense of solidarity and collective responsibility to advocate for intersex rights, as we recorded over four hundred guests physically from widespread across the country’s capital and its environs. 'World Untold: Echoes of Silence' created widespread of discussions, inspiring ongoing efforts for greater inclusion and equality. The play showcased the transformative power of art to educate, inspire, and drive social change, leaving an indelible mark on all who experienced its compelling narrative."
+    },
+    "radio-sensitization-in-local-communities": {
+      "title": "Radio Sensitization in Local Communities",
+      "text": "Intersex Nigeria embarked on an innovative radio outreach program, starting with Ikorodu FM, a widely popular station with a broad reach across Nigeria. This initiative was designed to leverage the power of radio to engage with diverse communities, including those in remote and underserved areas, to raise awareness about intersex issues. \n\nOur team carefully curated a series of engaging and informative segments aimed at educating the public about intersex variations, debunking myths and misconceptions, and highlighting the real-life experiences and challenges faced by intersex persons in Nigeria. A live call-in segment allowed listeners to ask questions and share their thoughts, promoting a sense of community and support. Indigenous Languages: The use of indigenous languages ensured that the message reached a wider audience, resonating deeply with local communities."
+    },
+    "viral-project": {
+      "title": "VIRAL Project",
+      "text": "The VIRAL Project stands for Visibility, Inclusion, and Recognition of Intersex Persons in Nigeria and Cameroon. This research aims to uncover the prevalence of intersex genital mutilation (IGM) and raise awareness of its consequences, extent, and scope in Nigeria and Cameroon. \n\nThe 2nd of March 2023, marked the kick off of the VIRAL project, bringing together Human Rights Organizations, traditional rulers, religious leaders, state and non-state actors, law enforcement agents, the Human Rights Commission, and intersex persons in Nigeria. \n\nThe meeting launched the VIRAL project and aiimed at raising awareness on the consequences, extent, and scope of intersex genital mutilation in Nigeria and Cameroon. Stakeholders committed to ensuring the successful implementation of the project."
+    }
+  },
+  "reportAbuseForm": {
+    "intro": "Intersex Nigeria is committed to providing a safe, affirming, and supportive environment for all community members, partners, and stakeholders. If you have experienced, witnessed, or suspect any form of abuse, misconduct, exploitation, or safeguarding concern, please use this form to report it. Reports can be submitted anonymously or with your contact details if you would like us to follow up with you. All information will be treated with the strictest confidentiality and reviewed only by the Safeguarding team.",
+    "fullName": "Full Name (Optional)",
+    "yourAnswer": "Your answer",
+    "contactMethod": "Email or Phone Number (Optional — required if you would like follow-up)",
+    "reportingFor": "Who are you reporting this for?",
+    "myself": "Myself",
+    "someoneElse": "Someone else",
+    "safeTime": "If you shared contact details, what is the safest way and time to reach you?",
+    "ageRange": "Age Range (Optional)",
+    "otherColon": "Other:",
+    "natureOfIncident": "What is the nature of the incident?",
+    "describeIncident": "Please describe what happened (Share as much detail as you feel comfortable with)",
+    "personSafe": "Is the person affected currently in a safe place?",
+    "yes": "Yes",
+    "no": "No",
+    "maybe": "Maybe",
+    "needsImmediateSupport": "Do you or the person affected need immediate emotional, medical, or legal support?",
+    "supportType": "What type of support are you hoping to receive from Intersex Nigeria?",
+    "wantContact": "Would you like someone from our Safeguarding team to contact you?",
+    "permissionToReach": "Do you give us permission to securely store this information and reach out if necessary?",
+    "notYet": "Not yet",
+    "additionalInfo": "Is there anything else you would like us to know?",
+    "closingNote": "We take every report seriously. Your courage in coming forward helps protect our entire community. If you are in immediate physical danger, please also reach out to local emergency services or a trusted support person.",
+    "clearForm": "Clear form",
+    "incidentOptions": {
+      "Harassment": "Harassment",
+      "Discrimination": "Discrimination",
+      "Bullying": "Bullying",
+      "Physical abuse": "Physical abuse",
+      "Sexual abuse": "Sexual abuse",
+      "Emotional abuse": "Emotional abuse",
+      "Boundary violation": "Boundary violation",
+      "Misconduct during an Intersex Nigeria activity": "Misconduct during an Intersex Nigeria activity",
+      "Online misconduct": "Online misconduct",
+      "Concerns about a staff member or volunteer": "Concerns about a staff member or volunteer",
+      "Safety risk": "Safety risk"
+    },
+    "supportOptions": {
+      "Confidential conversation": "Confidential conversation",
+      "Safety planning": "Safety planning",
+      "Referral to a support service": "Referral to a support service",
+      "Follow up with the person affected": "Follow up with the person affected",
+      "Not sure yet": "Not sure yet"
+    },
+    "ageOptions": {
+      "Under 18": "Under 18",
+      "18-24": "18-24",
+      "25-34": "25-34",
+      "Prefer not to say": "Prefer not to say"
+    }
+  },
+  "reportViolationForm": {
+    "email": "Email address",
+    "emailPlaceholder": "Your email address",
+    "phone": "Phone Number",
+    "phonePlaceholder": "Your phone number",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Your legal or chosen name",
+    "preferredName": "Preferred Name",
+    "preferredNamePlaceholder": "Name you want us to address you by",
+    "pronoun": "Pronoun",
+    "pronounPlaceholder": "e.g. He/Him, She/Her, They/Them",
+    "age": "Age",
+    "agePlaceholder": "Your age",
+    "genderIdentity": "Gender Identity",
+    "genderIdentityPlaceholder": "e.g. Male, Female, Non-binary, etc.",
+    "sexualOrientation": "Sexual Orientation",
+    "sexualOrientationPlaceholder": "e.g. Heterosexual, Queer, etc.",
+    "location": "Location",
+    "locationPlaceholder": "City, State, Country",
+    "typeOfViolation": "Type of Violation",
+    "selectViolationPlaceholder": "Select the type of violation",
+    "describeOtherPlaceholder": "Please describe the violation...",
+    "submittingForSelf": "Are you submitting this report for yourself?",
+    "relationship": "If you are submitting this report for someone else, what is your relationship to the person?",
+    "relationshipPlaceholder": "e.g. Friend, Colleague, Family member",
+    "incidentType": "Type of incident",
+    "incidentTypePlaceholder": "Brief title or nature of incident",
+    "incidentLocation": "Location where the incident occurred",
+    "incidentLocationPlaceholder": "State, City, Community, or Specific place",
+    "narrative": "Narrative of what happened",
+    "narrativeHint": "Please provide as much detail as you can: what happened, when, who was involved, and any actions taken so far.",
+    "narrativePlaceholder": "Describe the incident in detail...",
+    "supportNeeded": "What support do you need, or what would you like Intersex Nigeria to do?",
+    "supportNeededPlaceholder": "e.g. Legal advice, medical referral, psychosocial support, advocacy, emergency shelter...",
+    "wantContact": "Would you like someone from Intersex Nigeria to contact you regarding this report?",
+    "privacyFooter": "Intersex Nigeria respects your privacy. All information submitted through this form will be stored securely and treated with strict confidentiality. It will not be shared with any third party without your explicit consent.",
+    "options": {
+      "Non-consensual medical surgery (Intersex Genital Mutilation) IGM": "Non-consensual medical surgery (Intersex Genital Mutilation) IGM",
+      "Forced hormone treatment without informed consent": "Forced hormone treatment without informed consent",
+      "Denial of medical diagnosis or records to the person": "Denial of medical diagnosis or records to the person",
+      "Discrimination in healthcare settings": "Discrimination in healthcare settings",
+      "Stigma & Discrimination in spaces.": "Stigma & Discrimination in spaces.",
+      "Employment discrimination based on intersex status": "Employment discrimination based on intersex status",
+      "Discrimination in education settings": "Discrimination in education settings",
+      "Physical violence or abuse": "Physical violence or abuse",
+      "Sexual violence or abuse": "Sexual violence or abuse",
+      "Forced or coerced gender assignment": "Forced or coerced gender assignment",
+      "Family or domestic violence related to intersex status": "Family or domestic violence related to intersex status",
+      "Denial of identity documents or legal recognition": "Denial of identity documents or legal recognition",
+      "Social exclusion or ostracism from a community or religious group": "Social exclusion or ostracism from a community or religious group",
+      "Online harassment or doxing": "Online harassment or doxing",
+      "Psychological abuse or coercion": "Psychological abuse or coercion",
+      "Institutional neglect or failure of duty of care": "Institutional neglect or failure of duty of care",
+      "Invasion of Privacy": "Invasion of Privacy",
+      "Conversation of Practice (Therapy)": "Conversation of Practice (Conversion Therapy)",
+      "Unlawful Arrest or Blackmail": "Unlawful Arrest or Blackmail",
+      "Outing": "Outing",
+      "Other — describe below": "Other — describe below"
+    }
+  },
+  "careers": {
+    "joinOurTeam": "Join Our Team",
+    "intro": "We're looking for passionate individuals committed to creating a more inclusive society for Intersex People in Nigeria. Join our dedicated and diverse team at Intersex Nigeria!",
+    "noOpeningsP1": "Thank you for your interest in working with us. Unfortunately, we currently do not have any openings in our organization. If you want to contribute to the work we're doing, you can",
+    "volunteerLink": "volunteer with us",
+    "noOpeningsP2": "Do be on the lookout, as any job openings will be posted here."
+  },
+  "jobDetails": {
+    "careers": "Careers",
+    "termsOfReference": "Terms of Reference for",
+    "background": "Background",
+    "standardBackgroundP1": "Intersex Nigeria (Center for Healthcare Development and Youth Empowerment) is an intersex-led and focused Non-Governmental Organization in Nigeria. We promote and advocate for the sexual reproductive health, self-determination, bodily autonomy, and overall human rights of intersex people in all diversity in Nigeria. Through community building, advocacy, evidence-based research, empowerment, educational and informational resources on intersex-related issues to the public, partners, stakeholders, and our community.",
+    "standardBackgroundP2": "We want to see a society where intersex bodies are not stigmatized and discriminated against, and where intersex rights are recognized and respected.",
+    "seeMoreAbout": "See more about Intersex Nigeria",
+    "here": "here",
+    "aboutPosition": "About the position",
+    "objectives": "Objectives",
+    "keyResponsibilities": "Key Responsibilities",
+    "deliverables": "Deliverables",
+    "keySkills": "Key Skills and Qualifications",
+    "requirements": "Requirements",
+    "academicQualification": "Academic Qualification & Experience:",
+    "expectedOutcomes": "Expected Outcomes",
+    "employmentTerms": "EMPLOYMENT TERMS",
+    "applicationProcess": "APPLICATION PROCESS",
+    "closingDate": "APPLICATION CLOSING DATE",
+    "whenCandidateSelected": "When the needed candidate is selected.",
+    "note": "Note",
+    "equalOpportunity": "Intersex Nigeria is an equal opportunity employer and encourages applications from qualified individuals regardless of gender, sex, sexual orientation, (dis)ability, religion, or ethnic background.",
+    "defaultApplyP1": "Interested candidates should send their resume and cover letter to",
+    "defaultApplyP2": "using the job title",
+    "defaultApplyP3": "as the subject of the email. Only selected candidates will be contacted.",
+    "pcoApplyP1": "Interested and qualified candidates should send their CV with three (3) professional references and a cover letter to",
+    "pcoApplyP2": "using People and Culture Officer as the subject of the email."
+  }
+}
